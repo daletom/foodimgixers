@@ -1,0 +1,4053 @@
+{
+  "data": [
+    {
+      "attributes": {
+        "analyzed_content_warnings": true,
+        "analyzed_faces": false,
+        "analyzed_tags": true,
+        "categories": [
+          "imgixfood"
+        ],
+        "color_model": "RGB",
+        "color_profile": "Display P3",
+        "colors": {
+          "dominant_colors": {
+            "#191411": 0.10418879240751266,
+            "#37322e": 0.09280236065387726,
+            "#3d3220": 0.018761061131954193,
+            "#58514f": 0.09179940819740295,
+            "#5f5340": 0.0162831861525774,
+            "#7c7571": 0.09917403757572174,
+            "#827661": 0.025486726313829422,
+            "#a99c84": 0.069675512611866,
+            "#d3c6a8": 0.1295575201511383,
+            "#ede1c2": 0.06070796400308609
+          }
+        },
+        "content_type": "image/jpeg",
+        "custom_fields": {
+          "Chef": "Cindy",
+          "Name": "Black White Cupcakes",
+          "Type": "Cake"
+        },
+        "date_created": 1611729431,
+        "date_modified": 1611729487,
+        "description": null,
+        "dpi_height": 72,
+        "dpi_width": 72,
+        "face_count": null,
+        "file_size": 3539795,
+        "has_frames": false,
+        "media_height": 3024,
+        "media_kind": "IMAGE",
+        "media_width": 4032,
+        "name": null,
+        "origin_path": "/food/bwcupcake.jpeg",
+        "source_id": "55e4d9390d42e03905934ad4",
+        "tags": {
+          "Baked goods": 0.870156466960907,
+          "Baking cup": 0.8600307106971741,
+          "Cake": 0.9172194004058838,
+          "Cake decorating": 0.9238024353981018,
+          "Cake decorating supply": 0.9076622724533081,
+          "Cuisine": 0.8554629683494568,
+          "Food": 0.9874081611633301,
+          "Ingredient": 0.907344400882721,
+          "Recipe": 0.8770549297332764,
+          "White": 0.9218809008598328
+        },
+        "uploaded_by": "5629342b0d42e01151e822f6",
+        "uploaded_by_api": false,
+        "warning_adult": 1,
+        "warning_medical": 2,
+        "warning_racy": 1,
+        "warning_spoof": 1,
+        "warning_violence": 1
+      },
+      "id": "55e4d9390d42e03905934ad4/food/bwcupcake.jpeg",
+      "type": "assets"
+    },
+    {
+      "attributes": {
+        "analyzed_content_warnings": true,
+        "analyzed_faces": false,
+        "analyzed_tags": true,
+        "categories": [
+          "imgixfood"
+        ],
+        "color_model": "RGB",
+        "color_profile": null,
+        "colors": {
+          "dominant_colors": {
+            "#313f04": 0.008613569661974907,
+            "#4b5a16": 0.01392330415546894,
+            "#605210": 0.0138643067330122,
+            "#894c05": 0.06436578184366226,
+            "#934603": 0.05799410119652748,
+            "#a76719": 0.09651917219161987,
+            "#ad5b0e": 0.04908554628491402,
+            "#b5a181": 0.09050147235393524,
+            "#ce9040": 0.048672568053007126,
+            "#e9ad5b": 0.01740412972867489
+          }
+        },
+        "content_type": "image/jpeg",
+        "custom_fields": {
+          "Chef": "Cindy",
+          "Name": "Soondubu",
+          "Type": "Dinner"
+        },
+        "date_created": 1611729232,
+        "date_modified": 1611729331,
+        "description": null,
+        "dpi_height": 72,
+        "dpi_width": 72,
+        "face_count": null,
+        "file_size": 820719,
+        "has_frames": false,
+        "media_height": 4032,
+        "media_kind": "IMAGE",
+        "media_width": 3024,
+        "name": null,
+        "origin_path": "/food/soondubu.jpg",
+        "source_id": "55e4d9390d42e03905934ad4",
+        "tags": {
+          "Dish": 0.7617505192756653,
+          "Food": 0.9783528447151184,
+          "Gravy": 0.7424930334091187,
+          "Hot and sour soup": 0.8516095280647278,
+          "Ingredient": 0.8786005973815918,
+          "Meat": 0.7414412498474121,
+          "Recipe": 0.8710832595825195,
+          "Soup": 0.7849489450454712,
+          "Stew": 0.8983622789382935,
+          "Tableware": 0.8942646980285645
+        },
+        "uploaded_by": "5629342b0d42e01151e822f6",
+        "uploaded_by_api": false,
+        "warning_adult": 1,
+        "warning_medical": 1,
+        "warning_racy": 1,
+        "warning_spoof": 1,
+        "warning_violence": 1
+      },
+      "id": "55e4d9390d42e03905934ad4/food/soondubu.jpg",
+      "type": "assets"
+    },
+    {
+      "attributes": {
+        "analyzed_content_warnings": true,
+        "analyzed_faces": false,
+        "analyzed_tags": true,
+        "categories": [
+          "imgixfood"
+        ],
+        "color_model": "RGB",
+        "color_profile": "Display P3",
+        "colors": {
+          "dominant_colors": {
+            "#573016": 0.05321533977985382,
+            "#5c3210": 0.039056047797203064,
+            "#70482b": 0.031976401805877686,
+            "#794d25": 0.08755162358283997,
+            "#7e755e": 0.0356932170689106,
+            "#9b6c3d": 0.08536873012781143,
+            "#b6c9ee": 0.007846607826650143,
+            "#ba9766": 0.01032448373734951,
+            "#bb8c56": 0.031563423573970795,
+            "#d3bfa0": 0.10259587317705154
+          }
+        },
+        "content_type": "image/jpeg",
+        "custom_fields": {
+          "Chef": "Cindy",
+          "Name": "Russian Honey Cake",
+          "Type": "Cake"
+        },
+        "date_created": 1611729110,
+        "date_modified": 1611729168,
+        "description": null,
+        "dpi_height": 72,
+        "dpi_width": 72,
+        "face_count": null,
+        "file_size": 1837489,
+        "has_frames": false,
+        "media_height": 4032,
+        "media_kind": "IMAGE",
+        "media_width": 3024,
+        "name": null,
+        "origin_path": "/food/honeycake.jpg",
+        "source_id": "55e4d9390d42e03905934ad4",
+        "tags": {
+          "Baked goods": 0.853859007358551,
+          "Cake": 0.8837263584136963,
+          "Cuisine": 0.8470418453216553,
+          "Dish": 0.8082906603813171,
+          "Food": 0.982122004032135,
+          "Gluten": 0.7589230537414551,
+          "Hat": 0.838344395160675,
+          "Ingredient": 0.888515293598175,
+          "Recipe": 0.8078688383102417,
+          "Wood": 0.7517099380493164
+        },
+        "uploaded_by": "5629342b0d42e01151e822f6",
+        "uploaded_by_api": false,
+        "warning_adult": 1,
+        "warning_medical": 1,
+        "warning_racy": 1,
+        "warning_spoof": 2,
+        "warning_violence": 1
+      },
+      "id": "55e4d9390d42e03905934ad4/food/honeycake.jpg",
+      "type": "assets"
+    },
+    {
+      "attributes": {
+        "analyzed_content_warnings": true,
+        "analyzed_faces": false,
+        "analyzed_tags": true,
+        "categories": [
+          "imgixfood"
+        ],
+        "color_model": "RGB",
+        "color_profile": null,
+        "colors": {
+          "dominant_colors": {
+            "#303753": 0.09876105934381485,
+            "#4e2c14": 0.006725663784891367,
+            "#804b22": 0.03958702087402344,
+            "#9e6a39": 0.05598820000886917,
+            "#a36e25": 0.024424778297543526,
+            "#ab5d32": 0.0064896754920482635,
+            "#ba8652": 0.01740412972867489,
+            "#be6324": 0.03687315806746483,
+            "#e2e6e2": 0.03504424914717674,
+            "#ffdd80": 0.0004719764110632241
+          }
+        },
+        "content_type": "image/jpeg",
+        "custom_fields": {
+          "Chef": "Nick3",
+          "Name": "Grilled Cheese",
+          "Type": "Dinner"
+        },
+        "date_created": 1611728744,
+        "date_modified": 1611728793,
+        "description": null,
+        "dpi_height": 72,
+        "dpi_width": 72,
+        "face_count": null,
+        "file_size": 746774,
+        "has_frames": false,
+        "media_height": 3024,
+        "media_kind": "IMAGE",
+        "media_width": 4032,
+        "name": null,
+        "origin_path": "/food/grilledcheese.jpg",
+        "source_id": "55e4d9390d42e03905934ad4",
+        "tags": {
+          "Condiment": 0.855405330657959,
+          "Cuisine": 0.8513140678405762,
+          "Dish": 0.8472408652305603,
+          "Dishware": 0.8073661923408508,
+          "Food": 0.9815514087677002,
+          "Ingredient": 0.9119260311126709,
+          "Produce": 0.8011171817779541,
+          "Recipe": 0.8536191582679749,
+          "Sliced bread": 0.8784397840499878,
+          "Tableware": 0.9556791186332703
+        },
+        "uploaded_by": "5629342b0d42e01151e822f6",
+        "uploaded_by_api": false,
+        "warning_adult": 1,
+        "warning_medical": 2,
+        "warning_racy": 1,
+        "warning_spoof": 1,
+        "warning_violence": 1
+      },
+      "id": "55e4d9390d42e03905934ad4/food/grilledcheese.jpg",
+      "type": "assets"
+    },
+    {
+      "attributes": {
+        "analyzed_content_warnings": true,
+        "analyzed_faces": false,
+        "analyzed_tags": true,
+        "categories": [
+          "imgixfood"
+        ],
+        "color_model": "RGB",
+        "color_profile": null,
+        "colors": {
+          "dominant_colors": {
+            "#393839": 0.08265486359596252,
+            "#4d2a1a": 0.04873156175017357,
+            "#545053": 0.05569321662187576,
+            "#60543e": 0.04159292206168175,
+            "#7d7472": 0.041828908026218414,
+            "#84785e": 0.07923303544521332,
+            "#a29b99": 0.03528023511171341,
+            "#a45718": 0.0015929203946143389,
+            "#a69b80": 0.058938052505254745,
+            "#c5bea3": 0.022064896300435066
+          }
+        },
+        "content_type": "image/jpeg",
+        "custom_fields": {
+          "Chef": "Chris",
+          "Name": "Kombu Dashi",
+          "Type": "Dinner"
+        },
+        "date_created": 1611728661,
+        "date_modified": 1611728704,
+        "description": null,
+        "dpi_height": 72,
+        "dpi_width": 72,
+        "face_count": null,
+        "file_size": 1232859,
+        "has_frames": false,
+        "media_height": 3024,
+        "media_kind": "IMAGE",
+        "media_width": 4032,
+        "name": null,
+        "origin_path": "/food/kombudashi.jpg",
+        "source_id": "55e4d9390d42e03905934ad4",
+        "tags": {
+          "Computer keyboard": 0.8681445121765137,
+          "Dishware": 0.879516065120697,
+          "Food": 0.9804323315620422,
+          "Ingredient": 0.8616929650306702,
+          "Input device": 0.8430051803588867,
+          "Plate": 0.8658533096313477,
+          "Recipe": 0.8740642070770264,
+          "Seafood": 0.8147273659706116,
+          "Table": 0.8909575939178467,
+          "Tableware": 0.9617835283279419
+        },
+        "uploaded_by": "5629342b0d42e01151e822f6",
+        "uploaded_by_api": false,
+        "warning_adult": 1,
+        "warning_medical": 1,
+        "warning_racy": 1,
+        "warning_spoof": 1,
+        "warning_violence": 1
+      },
+      "id": "55e4d9390d42e03905934ad4/food/kombudashi.jpg",
+      "type": "assets"
+    },
+    {
+      "attributes": {
+        "analyzed_content_warnings": true,
+        "analyzed_faces": false,
+        "analyzed_tags": true,
+        "categories": [
+          "imgixfood"
+        ],
+        "color_model": "RGB",
+        "color_profile": "sRGB",
+        "colors": {
+          "dominant_colors": {
+            "#259cf1": 0.007698412518948317,
+            "#33a5d8": 0.0041269841603934765,
+            "#36302c": 0.1490476131439209,
+            "#377f96": 0.0033333334140479565,
+            "#6d7c36": 0.0014285714132711291,
+            "#844274": 0.0011111111380159855,
+            "#a1661d": 0.025555554777383804,
+            "#ab8c06": 0.0002380952355451882,
+            "#de2920": 0.0053174602799117565,
+            "#ef8419": 0.0006349206087179482
+          }
+        },
+        "content_type": "image/jpeg",
+        "custom_fields": {
+          "Chef": "Tom",
+          "Name": "Birthday Cake",
+          "Type": "Cake"
+        },
+        "date_created": 1611728556,
+        "date_modified": 1611728598,
+        "description": null,
+        "dpi_height": null,
+        "dpi_width": null,
+        "face_count": null,
+        "file_size": 546710,
+        "has_frames": false,
+        "media_height": 3840,
+        "media_kind": "IMAGE",
+        "media_width": 2160,
+        "name": null,
+        "origin_path": "/food/bdaycake.jpg",
+        "source_id": "55e4d9390d42e03905934ad4",
+        "tags": {
+          "Birthday candle": 0.9162330627441406,
+          "Cake": 0.906333863735199,
+          "Cake decorating": 0.8959047794342041,
+          "Cake decorating supply": 0.9030027985572815,
+          "Chair": 0.8315296769142151,
+          "Food": 0.9792002439498901,
+          "Ingredient": 0.8887951374053955,
+          "Sugar cake": 0.807526707649231,
+          "Table": 0.9239537119865417,
+          "Tableware": 0.9345065951347351
+        },
+        "uploaded_by": "5629342b0d42e01151e822f6",
+        "uploaded_by_api": false,
+        "warning_adult": 1,
+        "warning_medical": 1,
+        "warning_racy": 1,
+        "warning_spoof": 1,
+        "warning_violence": 1
+      },
+      "id": "55e4d9390d42e03905934ad4/food/bdaycake.jpg",
+      "type": "assets"
+    },
+    {
+      "attributes": {
+        "analyzed_content_warnings": true,
+        "analyzed_faces": false,
+        "analyzed_tags": true,
+        "categories": [
+          "imgixfood"
+        ],
+        "color_model": "RGB",
+        "color_profile": null,
+        "colors": {
+          "dominant_colors": {
+            "#381303": 0.02176991105079651,
+            "#4c220e": 0.03976401314139366,
+            "#542e07": 0.03622419014573097,
+            "#684f12": 0.017168141901493073,
+            "#6a1d06": 0.009557521902024746,
+            "#71481a": 0.028082596138119698,
+            "#882e12": 0.006312684156000614,
+            "#90781d": 0.0162831861525774,
+            "#ad9737": 0.022300884127616882,
+            "#b39c18": 0.007610619533807039
+          }
+        },
+        "content_type": "image/jpeg",
+        "custom_fields": {
+          "Chef": "Karthik",
+          "Name": "Smoked Pastrami Burger",
+          "Type": "Dinner"
+        },
+        "date_created": 1611728442,
+        "date_modified": 1611728493,
+        "description": null,
+        "dpi_height": 72,
+        "dpi_width": 72,
+        "face_count": null,
+        "file_size": 927517,
+        "has_frames": false,
+        "media_height": 3024,
+        "media_kind": "IMAGE",
+        "media_width": 4032,
+        "name": null,
+        "origin_path": "/food/smokedpastrami.jpg",
+        "source_id": "55e4d9390d42e03905934ad4",
+        "tags": {
+          "Baked goods": 0.8566719889640808,
+          "Bun": 0.8889710307121277,
+          "Cuisine": 0.8555914163589478,
+          "Fast food": 0.8791853189468384,
+          "Food": 0.9852239489555359,
+          "Ingredient": 0.8960077166557312,
+          "Recipe": 0.8740832805633545,
+          "Sandwich": 0.8225899934768677,
+          "Staple food": 0.8352497816085815,
+          "Tableware": 0.9256593585014343
+        },
+        "uploaded_by": "5629342b0d42e01151e822f6",
+        "uploaded_by_api": false,
+        "warning_adult": 1,
+        "warning_medical": 1,
+        "warning_racy": 1,
+        "warning_spoof": 1,
+        "warning_violence": 1
+      },
+      "id": "55e4d9390d42e03905934ad4/food/smokedpastrami.jpg",
+      "type": "assets"
+    },
+    {
+      "attributes": {
+        "analyzed_content_warnings": true,
+        "analyzed_faces": false,
+        "analyzed_tags": true,
+        "categories": [
+          "imgixfood"
+        ],
+        "color_model": "RGB",
+        "color_profile": null,
+        "colors": {
+          "dominant_colors": {
+            "#141515": 0.285250723361969,
+            "#62523c": 0.025722714141011238,
+            "#754b35": 0.017345132306218147,
+            "#844b26": 0.008259586989879608,
+            "#85745c": 0.019764011725783348,
+            "#904623": 0.006076696328818798,
+            "#976b54": 0.013569321483373642,
+            "#a3693d": 0.018820058554410934,
+            "#ad5e35": 0.009439527988433838,
+            "#c78b5c": 0.022772861644625664
+          }
+        },
+        "content_type": "image/jpeg",
+        "custom_fields": {
+          "Chef": "Cindy",
+          "Name": "Black Sesame Buns",
+          "Type": "Bread"
+        },
+        "date_created": 1611728291,
+        "date_modified": 1611728398,
+        "description": null,
+        "dpi_height": 72,
+        "dpi_width": 72,
+        "face_count": null,
+        "file_size": 1829781,
+        "has_frames": false,
+        "media_height": 4032,
+        "media_kind": "IMAGE",
+        "media_width": 3024,
+        "name": null,
+        "origin_path": "/food/blacksesame.jpg",
+        "source_id": "55e4d9390d42e03905934ad4",
+        "tags": {
+          "Baked goods": 0.8210548162460327,
+          "Cooking": 0.8101974725723267,
+          "Cuisine": 0.864722490310669,
+          "Dish": 0.8373819589614868,
+          "Finger food": 0.7333580255508423,
+          "Food": 0.9860673546791077,
+          "Gas": 0.7587639093399048,
+          "Ingredient": 0.906722366809845,
+          "Recipe": 0.8745620846748352,
+          "Staple food": 0.7449266314506531
+        },
+        "uploaded_by": "5629342b0d42e01151e822f6",
+        "uploaded_by_api": false,
+        "warning_adult": 1,
+        "warning_medical": 2,
+        "warning_racy": 2,
+        "warning_spoof": 2,
+        "warning_violence": 1
+      },
+      "id": "55e4d9390d42e03905934ad4/food/blacksesame.jpg",
+      "type": "assets"
+    },
+    {
+      "attributes": {
+        "analyzed_content_warnings": true,
+        "analyzed_faces": false,
+        "analyzed_tags": true,
+        "categories": [
+          "imgixfood"
+        ],
+        "color_model": "RGB",
+        "color_profile": "sRGB",
+        "colors": {
+          "dominant_colors": {
+            "#65553d": 0.06696165353059769,
+            "#734c37": 0.034395281225442886,
+            "#98674f": 0.022064896300435066,
+            "#9e663d": 0.013628318905830383,
+            "#b35e3a": 0.015162241645157337,
+            "#ee875f": 0.02106194756925106,
+            "#f5e8d1": 0.0492035411298275,
+            "#f87a4d": 0.009557521902024746,
+            "#fa8a54": 0.011563422158360481,
+            "#fd9e72": 0.006548672448843718
+          }
+        },
+        "content_type": "image/jpeg",
+        "custom_fields": {
+          "Chef": "Claire",
+          "Name": "Crepe Cake",
+          "Type": "Cake"
+        },
+        "date_created": 1611728204,
+        "date_modified": 1611728261,
+        "description": null,
+        "dpi_height": null,
+        "dpi_width": null,
+        "face_count": null,
+        "file_size": 673004,
+        "has_frames": false,
+        "media_height": 3024,
+        "media_kind": "IMAGE",
+        "media_width": 4032,
+        "name": null,
+        "origin_path": "/food/crepecake.jpeg",
+        "source_id": "55e4d9390d42e03905934ad4",
+        "tags": {
+          "Cuisine": 0.844914972782135,
+          "Dish": 0.8047364354133606,
+          "Dishware": 0.9350945353507996,
+          "Food": 0.9834872484207153,
+          "Ingredient": 0.8914812803268433,
+          "Plate": 0.8817097544670105,
+          "Recipe": 0.871525764465332,
+          "Serveware": 0.8141039609909058,
+          "Table": 0.904413640499115,
+          "Tableware": 0.9655819535255432
+        },
+        "uploaded_by": "5629342b0d42e01151e822f6",
+        "uploaded_by_api": false,
+        "warning_adult": 1,
+        "warning_medical": 2,
+        "warning_racy": 2,
+        "warning_spoof": 1,
+        "warning_violence": 1
+      },
+      "id": "55e4d9390d42e03905934ad4/food/crepecake.jpeg",
+      "type": "assets"
+    },
+    {
+      "attributes": {
+        "analyzed_content_warnings": true,
+        "analyzed_faces": false,
+        "analyzed_tags": true,
+        "categories": [
+          "imgixfood"
+        ],
+        "color_model": "RGB",
+        "color_profile": null,
+        "colors": {
+          "dominant_colors": {
+            "#30363c": 0.1542772799730301,
+            "#5d2b05": 0.052920352667570114,
+            "#6e797b": 0.03221238777041435,
+            "#7a4517": 0.058879055082798004,
+            "#9f6b39": 0.04129793494939804,
+            "#ac691f": 0.029262537136673927,
+            "#b0977f": 0.024365780875086784,
+            "#c8915a": 0.039469026029109955,
+            "#cb8c41": 0.014513274654746056,
+            "#ffdb98": 0.001533923321403563
+          }
+        },
+        "content_type": "image/jpeg",
+        "custom_fields": {
+          "Chef": "Erika",
+          "Name": "Seafood Gumbo",
+          "Type": "Dinner"
+        },
+        "date_created": 1611728130,
+        "date_modified": 1611728175,
+        "description": null,
+        "dpi_height": 72,
+        "dpi_width": 72,
+        "face_count": null,
+        "file_size": 900718,
+        "has_frames": false,
+        "media_height": 4032,
+        "media_kind": "IMAGE",
+        "media_width": 3024,
+        "name": null,
+        "origin_path": "/food/seafoodgumbo.jpg",
+        "source_id": "55e4d9390d42e03905934ad4",
+        "tags": {
+          "Bowl": 0.7344436645507812,
+          "Cuisine": 0.7917479872703552,
+          "Dish": 0.7661818265914917,
+          "Food": 0.9699450731277466,
+          "Ingredient": 0.8902263641357422,
+          "Meat": 0.7518903613090515,
+          "Produce": 0.7358761429786682,
+          "Recipe": 0.8640502691268921,
+          "Staple food": 0.8303977847099304,
+          "Tableware": 0.9471853971481323
+        },
+        "uploaded_by": "5629342b0d42e01151e822f6",
+        "uploaded_by_api": false,
+        "warning_adult": 1,
+        "warning_medical": 1,
+        "warning_racy": 1,
+        "warning_spoof": 1,
+        "warning_violence": 1
+      },
+      "id": "55e4d9390d42e03905934ad4/food/seafoodgumbo.jpg",
+      "type": "assets"
+    },
+    {
+      "attributes": {
+        "analyzed_content_warnings": true,
+        "analyzed_faces": false,
+        "analyzed_tags": true,
+        "categories": [
+          "imgixfood"
+        ],
+        "color_model": "RGB",
+        "color_profile": null,
+        "colors": {
+          "dominant_colors": {
+            "#5b2c05": 0.033569321036338806,
+            "#78491a": 0.036342181265354156,
+            "#97793e": 0.044306784868240356,
+            "#9a6d3a": 0.029911505058407784,
+            "#b99c5d": 0.17752212285995483,
+            "#bc9d4e": 0.023480825126171112,
+            "#c1925d": 0.02218289114534855,
+            "#c68d40": 0.005604719743132591,
+            "#d2b262": 0.012153392657637596,
+            "#d3b778": 0.12861357629299164
+          }
+        },
+        "content_type": "image/jpeg",
+        "custom_fields": {
+          "Chef": "Tim",
+          "Name": "Stuffed Shells",
+          "Type": "Dinner"
+        },
+        "date_created": 1611727984,
+        "date_modified": 1611728036,
+        "description": null,
+        "dpi_height": null,
+        "dpi_width": null,
+        "face_count": null,
+        "file_size": 1000102,
+        "has_frames": false,
+        "media_height": 4032,
+        "media_kind": "IMAGE",
+        "media_width": 3024,
+        "name": null,
+        "origin_path": "/food/stuffedshells.jpg",
+        "source_id": "55e4d9390d42e03905934ad4",
+        "tags": {
+          "Baked goods": 0.8056492209434509,
+          "Cooking": 0.8101673722267151,
+          "Cuisine": 0.8286454677581787,
+          "Deep frying": 0.7894425988197327,
+          "Dish": 0.7947983145713806,
+          "Dumpling": 0.8681035041809082,
+          "Food": 0.9800408482551575,
+          "Ingredient": 0.8884010910987854,
+          "Recipe": 0.876919686794281,
+          "Tableware": 0.7939422130584717
+        },
+        "uploaded_by": "5629342b0d42e01151e822f6",
+        "uploaded_by_api": false,
+        "warning_adult": 1,
+        "warning_medical": 1,
+        "warning_racy": 2,
+        "warning_spoof": 1,
+        "warning_violence": 1
+      },
+      "id": "55e4d9390d42e03905934ad4/food/stuffedshells.jpg",
+      "type": "assets"
+    },
+    {
+      "attributes": {
+        "analyzed_content_warnings": true,
+        "analyzed_faces": false,
+        "analyzed_tags": true,
+        "categories": [
+          "imgixfood"
+        ],
+        "color_model": "RGB",
+        "color_profile": null,
+        "colors": {
+          "dominant_colors": {
+            "#221d19": 0.0187020655721426,
+            "#371209": 0.0037758112885057926,
+            "#9d2251": 0.006312684156000614,
+            "#a4a4a4": 0.2110324501991272,
+            "#ae1d08": 0.05705014616250992,
+            "#b6044a": 0.003067846642807126,
+            "#cd9163": 0.003657817142084241,
+            "#cfc2a0": 0.06353982537984848,
+            "#d52715": 0.03646017611026764,
+            "#f76c0b": 0.012153392657637596
+          }
+        },
+        "content_type": "image/jpeg",
+        "custom_fields": {
+          "Chef": "Cindy",
+          "Name": "Elmo Cake",
+          "Type": "Cake"
+        },
+        "date_created": 1611727902,
+        "date_modified": 1611727951,
+        "description": null,
+        "dpi_height": 72,
+        "dpi_width": 72,
+        "face_count": null,
+        "file_size": 942027,
+        "has_frames": false,
+        "media_height": 4032,
+        "media_kind": "IMAGE",
+        "media_width": 3024,
+        "name": null,
+        "origin_path": "/food/elmocake.jpg",
+        "source_id": "55e4d9390d42e03905934ad4",
+        "tags": {
+          "Cake decorating": 0.8341326117515564,
+          "Cake decorating supply": 0.8154160380363464,
+          "Cuisine": 0.7728428244590759,
+          "Dishware": 0.8371973037719727,
+          "Flower": 0.8778883814811707,
+          "Food": 0.9660192131996155,
+          "Ingredient": 0.7884802222251892,
+          "Party supply": 0.7583388090133667,
+          "Serveware": 0.8098621964454651,
+          "Sugar cake": 0.7642682790756226
+        },
+        "uploaded_by": "5629342b0d42e01151e822f6",
+        "uploaded_by_api": false,
+        "warning_adult": 1,
+        "warning_medical": 2,
+        "warning_racy": 2,
+        "warning_spoof": 4,
+        "warning_violence": 2
+      },
+      "id": "55e4d9390d42e03905934ad4/food/elmocake.jpg",
+      "type": "assets"
+    },
+    {
+      "attributes": {
+        "analyzed_content_warnings": true,
+        "analyzed_faces": false,
+        "analyzed_tags": true,
+        "categories": [
+          "imgixfood"
+        ],
+        "color_model": "RGB",
+        "color_profile": "sRGB",
+        "colors": {
+          "dominant_colors": {
+            "#3b302d": 0.05952802300453186,
+            "#6a1a1e": 0.012153392657637596,
+            "#7daaa7": 0.00949852541089058,
+            "#804924": 0.02064896747469902,
+            "#873536": 0.011386430822312832,
+            "#8b3e19": 0.017994100227952003,
+            "#992432": 0.004955752287060022,
+            "#a16840": 0.01787610538303852,
+            "#b15d34": 0.010973451659083366,
+            "#f4dfc3": 0.0723893791437149
+          }
+        },
+        "content_type": "image/jpeg",
+        "custom_fields": {
+          "Chef": "Cindy",
+          "Name": "Unicorn Roll",
+          "Type": "Cake"
+        },
+        "date_created": 1611727830,
+        "date_modified": 1611727882,
+        "description": null,
+        "dpi_height": null,
+        "dpi_width": null,
+        "face_count": null,
+        "file_size": 499818,
+        "has_frames": false,
+        "media_height": 4032,
+        "media_kind": "IMAGE",
+        "media_width": 3024,
+        "name": null,
+        "origin_path": "/food/unicornroll.jpeg",
+        "source_id": "55e4d9390d42e03905934ad4",
+        "tags": {
+          "Baked goods": 0.8074026703834534,
+          "Cake": 0.8741962313652039,
+          "Cuisine": 0.8299974799156189,
+          "Dishware": 0.8662117719650269,
+          "Food": 0.9765223860740662,
+          "Ingredient": 0.9007111191749573,
+          "Plate": 0.8588865399360657,
+          "Recipe": 0.8747351169586182,
+          "Table": 0.8496276140213013,
+          "Tableware": 0.9490607380867004
+        },
+        "uploaded_by": "5629342b0d42e01151e822f6",
+        "uploaded_by_api": false,
+        "warning_adult": 2,
+        "warning_medical": 2,
+        "warning_racy": 2,
+        "warning_spoof": 4,
+        "warning_violence": 2
+      },
+      "id": "55e4d9390d42e03905934ad4/food/unicornroll.jpeg",
+      "type": "assets"
+    },
+    {
+      "attributes": {
+        "analyzed_content_warnings": true,
+        "analyzed_faces": false,
+        "analyzed_tags": true,
+        "categories": [
+          "imgixfood"
+        ],
+        "color_model": "RGB",
+        "color_profile": null,
+        "colors": {
+          "dominant_colors": {
+            "#293710": 0.040235988795757294,
+            "#3d3313": 0.033097345381975174,
+            "#4a562c": 0.021592920646071434,
+            "#5d5234": 0.04554572328925133,
+            "#847b74": 0.07758112251758575,
+            "#867860": 0.07474926114082336,
+            "#a19790": 0.13899704813957214,
+            "#a79780": 0.07404129952192307,
+            "#b69182": 0.03852507472038269,
+            "#cfbfa5": 0.041474927216768265
+          }
+        },
+        "content_type": "image/jpeg",
+        "custom_fields": {
+          "Chef": "Nick3",
+          "Name": "Carnitas Tacos",
+          "Type": "Dinner"
+        },
+        "date_created": 1611727512,
+        "date_modified": 1611727584,
+        "description": null,
+        "dpi_height": 72,
+        "dpi_width": 72,
+        "face_count": null,
+        "file_size": 1511683,
+        "has_frames": false,
+        "media_height": 2712,
+        "media_kind": "IMAGE",
+        "media_width": 3614,
+        "name": null,
+        "origin_path": "/food/carnitastacos.jpg",
+        "source_id": "55e4d9390d42e03905934ad4",
+        "tags": {
+          "Cuisine": 0.8541653752326965,
+          "Dish": 0.8430246710777283,
+          "Fines herbes": 0.8730001449584961,
+          "Food": 0.9858123064041138,
+          "Ingredient": 0.9073420763015747,
+          "Leaf vegetable": 0.8489746451377869,
+          "Produce": 0.7957634329795837,
+          "Recipe": 0.8789965510368347,
+          "Staple food": 0.865211009979248,
+          "Tableware": 0.9362603425979614
+        },
+        "uploaded_by": "5629342b0d42e01151e822f6",
+        "uploaded_by_api": false,
+        "warning_adult": 1,
+        "warning_medical": 1,
+        "warning_racy": 1,
+        "warning_spoof": 1,
+        "warning_violence": 1
+      },
+      "id": "55e4d9390d42e03905934ad4/food/carnitastacos.jpg",
+      "type": "assets"
+    },
+    {
+      "attributes": {
+        "analyzed_content_warnings": true,
+        "analyzed_faces": false,
+        "analyzed_tags": true,
+        "categories": [
+          "imgixfood"
+        ],
+        "color_model": "RGB",
+        "color_profile": null,
+        "colors": {
+          "dominant_colors": {
+            "#221c06": 0.020353982225060463,
+            "#393116": 0.037050146609544754,
+            "#473707": 0.02383480779826641,
+            "#625134": 0.028436578810214996,
+            "#655119": 0.055280234664678574,
+            "#8a7338": 0.04560472071170807,
+            "#917723": 0.022477876394987106,
+            "#b09755": 0.04566371813416481,
+            "#bb9d44": 0.07598820328712463,
+            "#d5b658": 0.06289085745811462
+          }
+        },
+        "content_type": "image/jpeg",
+        "custom_fields": {
+          "Chef": "Karthik",
+          "Name": "Pork Dumpling Stir Fry",
+          "Type": "Dinner"
+        },
+        "date_created": 1611727404,
+        "date_modified": 1611727472,
+        "description": null,
+        "dpi_height": 72,
+        "dpi_width": 72,
+        "face_count": null,
+        "file_size": 1113849,
+        "has_frames": false,
+        "media_height": 3024,
+        "media_kind": "IMAGE",
+        "media_width": 4032,
+        "name": null,
+        "origin_path": "/food/porkdumpling.jpg",
+        "source_id": "55e4d9390d42e03905934ad4",
+        "tags": {
+          "Cuisine": 0.8569680452346802,
+          "Dish": 0.8444550633430481,
+          "Fines herbes": 0.7560043334960938,
+          "Food": 0.9817884564399719,
+          "Ingredient": 0.909164547920227,
+          "Leaf vegetable": 0.8105504512786865,
+          "Meat": 0.7372058629989624,
+          "Produce": 0.7893737554550171,
+          "Recipe": 0.8813652992248535,
+          "Staple food": 0.8711492419242859
+        },
+        "uploaded_by": "5629342b0d42e01151e822f6",
+        "uploaded_by_api": false,
+        "warning_adult": 2,
+        "warning_medical": 1,
+        "warning_racy": 1,
+        "warning_spoof": 1,
+        "warning_violence": 1
+      },
+      "id": "55e4d9390d42e03905934ad4/food/porkdumpling.jpg",
+      "type": "assets"
+    },
+    {
+      "attributes": {
+        "analyzed_content_warnings": true,
+        "analyzed_faces": false,
+        "analyzed_tags": true,
+        "categories": [
+          "imgixfood"
+        ],
+        "color_model": "RGB",
+        "color_profile": null,
+        "colors": {
+          "dominant_colors": {
+            "#3f3927": 0.01504424773156643,
+            "#533209": 0.0006489675724878907,
+            "#5a523d": 0.044247787445783615,
+            "#af9b80": 0.034749262034893036,
+            "#b19560": 0.006312684156000614,
+            "#b46461": 0.004837757907807827,
+            "#debc87": 0.008613569661974907,
+            "#dfc4a8": 0.056106194853782654,
+            "#e8bca1": 0.02619468979537487,
+            "#eab78b": 0.005958701949566603
+          }
+        },
+        "content_type": "image/jpeg",
+        "custom_fields": {
+          "Chef": "Cindy",
+          "Name": "Smash Cake",
+          "Type": "Cake"
+        },
+        "date_created": 1611727301,
+        "date_modified": 1611727367,
+        "description": null,
+        "dpi_height": 72,
+        "dpi_width": 72,
+        "face_count": null,
+        "file_size": 1080115,
+        "has_frames": false,
+        "media_height": 3024,
+        "media_kind": "IMAGE",
+        "media_width": 4032,
+        "name": null,
+        "origin_path": "/food/birthdaycake.jpg",
+        "source_id": "55e4d9390d42e03905934ad4",
+        "tags": {
+          "Art": 0.8297619819641113,
+          "Chair": 0.8821260929107666,
+          "Furniture": 0.9475001096725464,
+          "Paint": 0.8355551958084106,
+          "Rectangle": 0.858107328414917,
+          "Shelf": 0.6638944745063782,
+          "Shelving": 0.8717421293258667,
+          "Souvenir": 0.6719251871109009,
+          "Table": 0.927278995513916,
+          "Visual arts": 0.6786662936210632
+        },
+        "uploaded_by": "5629342b0d42e01151e822f6",
+        "uploaded_by_api": false,
+        "warning_adult": 1,
+        "warning_medical": 1,
+        "warning_racy": 1,
+        "warning_spoof": 1,
+        "warning_violence": 1
+      },
+      "id": "55e4d9390d42e03905934ad4/food/birthdaycake.jpg",
+      "type": "assets"
+    },
+    {
+      "attributes": {
+        "analyzed_content_warnings": true,
+        "analyzed_faces": false,
+        "analyzed_tags": true,
+        "categories": [
+          "imgixfood"
+        ],
+        "color_model": "RGB",
+        "color_profile": null,
+        "colors": {
+          "dominant_colors": {
+            "#130d12": 0.3258996903896332,
+            "#350f01": 0.008259586989879608,
+            "#8a4d06": 0.011563422158360481,
+            "#ae6a16": 0.08784660696983337,
+            "#b5620d": 0.034749262034893036,
+            "#c56d08": 0.008259586989879608,
+            "#cc862d": 0.046253688633441925,
+            "#da8d1f": 0.0759292021393776,
+            "#dc8215": 0.03091445378959179,
+            "#f0a430": 0.005958701949566603
+          }
+        },
+        "content_type": "image/jpeg",
+        "custom_fields": {
+          "Chef": "Nick3",
+          "Name": "Croquettes",
+          "Type": "Dinner"
+        },
+        "date_created": 1611727159,
+        "date_modified": 1611727238,
+        "description": null,
+        "dpi_height": 72,
+        "dpi_width": 72,
+        "face_count": null,
+        "file_size": 1022227,
+        "has_frames": false,
+        "media_height": 3024,
+        "media_kind": "IMAGE",
+        "media_width": 4032,
+        "name": null,
+        "origin_path": "/food/croquettes.jpg",
+        "source_id": "55e4d9390d42e03905934ad4",
+        "tags": {
+          "Cuisine": 0.8549559712409973,
+          "Deep frying": 0.8123217821121216,
+          "Dish": 0.8500567674636841,
+          "Fast food": 0.7700496912002563,
+          "Food": 0.9845393896102905,
+          "Fried food": 0.761857807636261,
+          "Hushpuppy": 0.8166382908821106,
+          "Ingredient": 0.8932194113731384,
+          "Produce": 0.7844604253768921,
+          "Recipe": 0.8722259402275085
+        },
+        "uploaded_by": "5629342b0d42e01151e822f6",
+        "uploaded_by_api": false,
+        "warning_adult": 1,
+        "warning_medical": 1,
+        "warning_racy": 1,
+        "warning_spoof": 1,
+        "warning_violence": 1
+      },
+      "id": "55e4d9390d42e03905934ad4/food/croquettes.jpg",
+      "type": "assets"
+    },
+    {
+      "attributes": {
+        "analyzed_content_warnings": true,
+        "analyzed_faces": false,
+        "analyzed_tags": true,
+        "categories": [
+          "imgixfood"
+        ],
+        "color_model": "RGB",
+        "color_profile": "sRGB IEC61966-2.1",
+        "colors": {
+          "dominant_colors": {
+            "#774c1c": 0.010873015969991684,
+            "#897558": 0.02349206432700157,
+            "#967b46": 0.015396825037896633,
+            "#9b7e28": 0.018333332613110542,
+            "#ad9f7d": 0.021190475672483444,
+            "#b39c40": 0.1007142886519432,
+            "#b4a05f": 0.08865079283714294,
+            "#c4b67b": 0.023968253284692764,
+            "#c4bb95": 0.029682539403438568,
+            "#cab657": 0.0023015872575342655
+          }
+        },
+        "content_type": "image/jpeg",
+        "custom_fields": {
+          "Chef": "Tom",
+          "Name": "Dutch Pancake",
+          "Type": "Breakfast"
+        },
+        "date_created": 1611727011,
+        "date_modified": 1611727068,
+        "description": null,
+        "dpi_height": 72,
+        "dpi_width": 72,
+        "face_count": null,
+        "file_size": 3018844,
+        "has_frames": false,
+        "media_height": 2160,
+        "media_kind": "IMAGE",
+        "media_width": 3840,
+        "name": null,
+        "origin_path": "/food/dutchpancake.jpg",
+        "source_id": "55e4d9390d42e03905934ad4",
+        "tags": {
+          "Baked goods": 0.7815617322921753,
+          "Cooking": 0.7792673110961914,
+          "Flour": 0.8532214760780334,
+          "Food": 0.9724205732345581,
+          "Ingredient": 0.8588224053382874,
+          "Produce": 0.7738118171691895,
+          "Recipe": 0.8727898001670837,
+          "Serveware": 0.7962063550949097,
+          "Staple food": 0.8667807579040527,
+          "Tableware": 0.9109411835670471
+        },
+        "uploaded_by": "5629342b0d42e01151e822f6",
+        "uploaded_by_api": false,
+        "warning_adult": 1,
+        "warning_medical": 2,
+        "warning_racy": 1,
+        "warning_spoof": 1,
+        "warning_violence": 2
+      },
+      "id": "55e4d9390d42e03905934ad4/food/dutchpancake.jpg",
+      "type": "assets"
+    },
+    {
+      "attributes": {
+        "analyzed_content_warnings": true,
+        "analyzed_faces": false,
+        "analyzed_tags": true,
+        "categories": [
+          "imgixfood"
+        ],
+        "color_model": "RGB",
+        "color_profile": null,
+        "colors": {
+          "dominant_colors": {
+            "#351306": 0.03758111968636513,
+            "#502b1a": 0.14141592383384705,
+            "#714a39": 0.15604719519615173,
+            "#99695b": 0.0796460211277008,
+            "#9a6c43": 0.016578171402215958,
+            "#b26766": 0.02613569237291813,
+            "#be9b64": 0.02029498480260372,
+            "#bf877a": 0.02377581037580967,
+            "#ca7e7c": 0.014100294560194016,
+            "#d0b695": 0.16772861778736115
+          }
+        },
+        "content_type": "image/jpeg",
+        "custom_fields": {
+          "Chef": "Tim",
+          "Name": "Teriyaki Ribeye",
+          "Type": "Dinner"
+        },
+        "date_created": 1611726875,
+        "date_modified": 1611726969,
+        "description": null,
+        "dpi_height": null,
+        "dpi_width": null,
+        "face_count": null,
+        "file_size": 1211488,
+        "has_frames": false,
+        "media_height": 4032,
+        "media_kind": "IMAGE",
+        "media_width": 3024,
+        "name": null,
+        "origin_path": "/food/teriyakiribeye.jpg",
+        "source_id": "55e4d9390d42e03905934ad4",
+        "tags": {
+          "Animal product": 0.8228104710578918,
+          "Beef": 0.8648539185523987,
+          "Cuisine": 0.8616385459899902,
+          "Dish": 0.8500567674636841,
+          "Food": 0.9845384955406189,
+          "Ingredient": 0.9123704433441162,
+          "Pork": 0.8328153491020203,
+          "Recipe": 0.8797533512115479,
+          "Red meat": 0.8299420475959778,
+          "Steak": 0.84639573097229
+        },
+        "uploaded_by": "5629342b0d42e01151e822f6",
+        "uploaded_by_api": false,
+        "warning_adult": 2,
+        "warning_medical": 3,
+        "warning_racy": 2,
+        "warning_spoof": 1,
+        "warning_violence": 1
+      },
+      "id": "55e4d9390d42e03905934ad4/food/teriyakiribeye.jpg",
+      "type": "assets"
+    },
+    {
+      "attributes": {
+        "analyzed_content_warnings": true,
+        "analyzed_faces": false,
+        "analyzed_tags": true,
+        "categories": [
+          "imgixfood"
+        ],
+        "color_model": "RGB",
+        "color_profile": null,
+        "colors": {
+          "dominant_colors": {
+            "#190d06": 0.14460177719593048,
+            "#88755f": 0.049321532249450684,
+            "#a59996": 0.12879055738449097,
+            "#ac9c84": 0.09929203242063522,
+            "#bc9386": 0.020884955301880836,
+            "#bc9396": 0.024778760969638824,
+            "#c2ce85": 0.012743363156914711,
+            "#c7bcb7": 0.10247787833213806,
+            "#ccbca2": 0.11769911646842957,
+            "#e0b4ba": 0.0301474928855896
+          }
+        },
+        "content_type": "image/jpeg",
+        "custom_fields": {
+          "Chef": "Cindy",
+          "Name": "Macarons",
+          "Type": "Cookie"
+        },
+        "date_created": 1611726634,
+        "date_modified": 1611726809,
+        "description": null,
+        "dpi_height": 72,
+        "dpi_width": 72,
+        "face_count": null,
+        "file_size": 1146134,
+        "has_frames": false,
+        "media_height": 3024,
+        "media_kind": "IMAGE",
+        "media_width": 4032,
+        "name": null,
+        "origin_path": "/food/macaron.jpg",
+        "source_id": "55e4d9390d42e03905934ad4",
+        "tags": {
+          "Baked goods": 0.8689092993736267,
+          "Convenience food": 0.8501975536346436,
+          "Cuisine": 0.8642765879631042,
+          "Dairy": 0.7572266459465027,
+          "Food": 0.9849147796630859,
+          "Ingredient": 0.8675456047058105,
+          "Macaroon": 0.8917025923728943,
+          "Retail": 0.7884736657142639,
+          "Shelving": 0.7590044140815735,
+          "Sweetness": 0.7634177803993225
+        },
+        "uploaded_by": "5629342b0d42e01151e822f6",
+        "uploaded_by_api": false,
+        "warning_adult": 1,
+        "warning_medical": 1,
+        "warning_racy": 1,
+        "warning_spoof": 1,
+        "warning_violence": 1
+      },
+      "id": "55e4d9390d42e03905934ad4/food/macaron.jpg",
+      "type": "assets"
+    },
+    {
+      "attributes": {
+        "analyzed_content_warnings": true,
+        "analyzed_faces": false,
+        "analyzed_tags": true,
+        "categories": [
+          "imgixfood"
+        ],
+        "color_model": "RGB",
+        "color_profile": "Display P3",
+        "colors": {
+          "dominant_colors": {
+            "#573016": 0.05321533977985382,
+            "#5c3210": 0.039056047797203064,
+            "#70482b": 0.031976401805877686,
+            "#794d25": 0.08755162358283997,
+            "#7e755e": 0.0356932170689106,
+            "#9b6c3d": 0.08536873012781143,
+            "#b6c9ee": 0.007846607826650143,
+            "#ba9766": 0.01032448373734951,
+            "#bb8c56": 0.031563423573970795,
+            "#d3bfa0": 0.10259587317705154
+          }
+        },
+        "content_type": "image/jpeg",
+        "custom_fields": {
+          "Chef": "Cindy",
+          "Name": "Russian Honey Cake",
+          "Type": "Cake"
+        },
+        "date_created": 1611729110,
+        "date_modified": 1611777192,
+        "description": null,
+        "dpi_height": 72,
+        "dpi_width": 72,
+        "face_count": null,
+        "file_size": 1837489,
+        "has_frames": false,
+        "media_height": 4032,
+        "media_kind": "IMAGE",
+        "media_width": 3024,
+        "name": null,
+        "origin_path": "/food/honeycake.jpg",
+        "source_id": "55e4d9390d42e03905934ad4",
+        "tags": {
+          "Baked goods": 0.853859007358551,
+          "Cake": 0.8837263584136963,
+          "Cuisine": 0.8470418453216553,
+          "Dish": 0.8082906603813171,
+          "Food": 0.982122004032135,
+          "Gluten": 0.7589230537414551,
+          "Hat": 0.838344395160675,
+          "Ingredient": 0.888515293598175,
+          "Recipe": 0.8078688383102417,
+          "Wood": 0.7517099380493164
+        },
+        "uploaded_by": "5629342b0d42e01151e822f6",
+        "uploaded_by_api": false,
+        "warning_adult": 1,
+        "warning_medical": 1,
+        "warning_racy": 1,
+        "warning_spoof": 2,
+        "warning_violence": 1
+      },
+      "id": "55e4d9390d42e03905934ad4/food/honeycake.jpg",
+      "type": "assets"
+    },
+    {
+      "attributes": {
+        "analyzed_content_warnings": true,
+        "analyzed_faces": false,
+        "analyzed_tags": true,
+        "categories": [
+          "imgixfood"
+        ],
+        "color_model": "RGB",
+        "color_profile": null,
+        "colors": {
+          "dominant_colors": {
+            "#303753": 0.09876105934381485,
+            "#4e2c14": 0.006725663784891367,
+            "#804b22": 0.03958702087402344,
+            "#9e6a39": 0.05598820000886917,
+            "#a36e25": 0.024424778297543526,
+            "#ab5d32": 0.0064896754920482635,
+            "#ba8652": 0.01740412972867489,
+            "#be6324": 0.03687315806746483,
+            "#e2e6e2": 0.03504424914717674,
+            "#ffdd80": 0.0004719764110632241
+          }
+        },
+        "content_type": "image/jpeg",
+        "custom_fields": {
+          "Chef": "Nick3",
+          "Name": "Grilled Cheese",
+          "Type": "Dinner"
+        },
+        "date_created": 1611728744,
+        "date_modified": 1611777192,
+        "description": null,
+        "dpi_height": 72,
+        "dpi_width": 72,
+        "face_count": null,
+        "file_size": 746774,
+        "has_frames": false,
+        "media_height": 3024,
+        "media_kind": "IMAGE",
+        "media_width": 4032,
+        "name": null,
+        "origin_path": "/food/grilledcheese.jpg",
+        "source_id": "55e4d9390d42e03905934ad4",
+        "tags": {
+          "Condiment": 0.855405330657959,
+          "Cuisine": 0.8513140678405762,
+          "Dish": 0.8472408652305603,
+          "Dishware": 0.8073661923408508,
+          "Food": 0.9815514087677002,
+          "Ingredient": 0.9119260311126709,
+          "Produce": 0.8011171817779541,
+          "Recipe": 0.8536191582679749,
+          "Sliced bread": 0.8784397840499878,
+          "Tableware": 0.9556791186332703
+        },
+        "uploaded_by": "5629342b0d42e01151e822f6",
+        "uploaded_by_api": false,
+        "warning_adult": 1,
+        "warning_medical": 2,
+        "warning_racy": 1,
+        "warning_spoof": 1,
+        "warning_violence": 1
+      },
+      "id": "55e4d9390d42e03905934ad4/food/grilledcheese.jpg",
+      "type": "assets"
+    },
+    {
+      "attributes": {
+        "analyzed_content_warnings": true,
+        "analyzed_faces": false,
+        "analyzed_tags": true,
+        "categories": [
+          "imgixfood"
+        ],
+        "color_model": "RGB",
+        "color_profile": null,
+        "colors": {
+          "dominant_colors": {
+            "#393839": 0.08265486359596252,
+            "#4d2a1a": 0.04873156175017357,
+            "#545053": 0.05569321662187576,
+            "#60543e": 0.04159292206168175,
+            "#7d7472": 0.041828908026218414,
+            "#84785e": 0.07923303544521332,
+            "#a29b99": 0.03528023511171341,
+            "#a45718": 0.0015929203946143389,
+            "#a69b80": 0.058938052505254745,
+            "#c5bea3": 0.022064896300435066
+          }
+        },
+        "content_type": "image/jpeg",
+        "custom_fields": {
+          "Chef": "Chris",
+          "Name": "Kombu Dashi",
+          "Type": "Dinner"
+        },
+        "date_created": 1611728661,
+        "date_modified": 1611777192,
+        "description": null,
+        "dpi_height": 72,
+        "dpi_width": 72,
+        "face_count": null,
+        "file_size": 1232859,
+        "has_frames": false,
+        "media_height": 3024,
+        "media_kind": "IMAGE",
+        "media_width": 4032,
+        "name": null,
+        "origin_path": "/food/kombudashi.jpg",
+        "source_id": "55e4d9390d42e03905934ad4",
+        "tags": {
+          "Computer keyboard": 0.8681445121765137,
+          "Dishware": 0.879516065120697,
+          "Food": 0.9804323315620422,
+          "Ingredient": 0.8616929650306702,
+          "Input device": 0.8430051803588867,
+          "Plate": 0.8658533096313477,
+          "Recipe": 0.8740642070770264,
+          "Seafood": 0.8147273659706116,
+          "Table": 0.8909575939178467,
+          "Tableware": 0.9617835283279419
+        },
+        "uploaded_by": "5629342b0d42e01151e822f6",
+        "uploaded_by_api": false,
+        "warning_adult": 1,
+        "warning_medical": 1,
+        "warning_racy": 1,
+        "warning_spoof": 1,
+        "warning_violence": 1
+      },
+      "id": "55e4d9390d42e03905934ad4/food/kombudashi.jpg",
+      "type": "assets"
+    },
+    {
+      "attributes": {
+        "analyzed_content_warnings": true,
+        "analyzed_faces": false,
+        "analyzed_tags": true,
+        "categories": [
+          "imgixfood"
+        ],
+        "color_model": "RGB",
+        "color_profile": "sRGB",
+        "colors": {
+          "dominant_colors": {
+            "#259cf1": 0.007698412518948317,
+            "#33a5d8": 0.0041269841603934765,
+            "#36302c": 0.1490476131439209,
+            "#377f96": 0.0033333334140479565,
+            "#6d7c36": 0.0014285714132711291,
+            "#844274": 0.0011111111380159855,
+            "#a1661d": 0.025555554777383804,
+            "#ab8c06": 0.0002380952355451882,
+            "#de2920": 0.0053174602799117565,
+            "#ef8419": 0.0006349206087179482
+          }
+        },
+        "content_type": "image/jpeg",
+        "custom_fields": {
+          "Chef": "Tom",
+          "Name": "Birthday Cake",
+          "Type": "Cake"
+        },
+        "date_created": 1611728556,
+        "date_modified": 1611777191,
+        "description": null,
+        "dpi_height": null,
+        "dpi_width": null,
+        "face_count": null,
+        "file_size": 546710,
+        "has_frames": false,
+        "media_height": 3840,
+        "media_kind": "IMAGE",
+        "media_width": 2160,
+        "name": null,
+        "origin_path": "/food/bdaycake.jpg",
+        "source_id": "55e4d9390d42e03905934ad4",
+        "tags": {
+          "Birthday candle": 0.9162330627441406,
+          "Cake": 0.906333863735199,
+          "Cake decorating": 0.8959047794342041,
+          "Cake decorating supply": 0.9030027985572815,
+          "Chair": 0.8315296769142151,
+          "Food": 0.9792002439498901,
+          "Ingredient": 0.8887951374053955,
+          "Sugar cake": 0.807526707649231,
+          "Table": 0.9239537119865417,
+          "Tableware": 0.9345065951347351
+        },
+        "uploaded_by": "5629342b0d42e01151e822f6",
+        "uploaded_by_api": false,
+        "warning_adult": 1,
+        "warning_medical": 1,
+        "warning_racy": 1,
+        "warning_spoof": 1,
+        "warning_violence": 1
+      },
+      "id": "55e4d9390d42e03905934ad4/food/bdaycake.jpg",
+      "type": "assets"
+    },
+    {
+      "attributes": {
+        "analyzed_content_warnings": true,
+        "analyzed_faces": false,
+        "analyzed_tags": true,
+        "categories": [
+          "imgixfood"
+        ],
+        "color_model": "RGB",
+        "color_profile": null,
+        "colors": {
+          "dominant_colors": {
+            "#381303": 0.02176991105079651,
+            "#4c220e": 0.03976401314139366,
+            "#542e07": 0.03622419014573097,
+            "#684f12": 0.017168141901493073,
+            "#6a1d06": 0.009557521902024746,
+            "#71481a": 0.028082596138119698,
+            "#882e12": 0.006312684156000614,
+            "#90781d": 0.0162831861525774,
+            "#ad9737": 0.022300884127616882,
+            "#b39c18": 0.007610619533807039
+          }
+        },
+        "content_type": "image/jpeg",
+        "custom_fields": {
+          "Chef": "Karthik",
+          "Name": "Smoked Pastrami Burger",
+          "Type": "Dinner"
+        },
+        "date_created": 1611728442,
+        "date_modified": 1611777192,
+        "description": null,
+        "dpi_height": 72,
+        "dpi_width": 72,
+        "face_count": null,
+        "file_size": 927517,
+        "has_frames": false,
+        "media_height": 3024,
+        "media_kind": "IMAGE",
+        "media_width": 4032,
+        "name": null,
+        "origin_path": "/food/smokedpastrami.jpg",
+        "source_id": "55e4d9390d42e03905934ad4",
+        "tags": {
+          "Baked goods": 0.8566719889640808,
+          "Bun": 0.8889710307121277,
+          "Cuisine": 0.8555914163589478,
+          "Fast food": 0.8791853189468384,
+          "Food": 0.9852239489555359,
+          "Ingredient": 0.8960077166557312,
+          "Recipe": 0.8740832805633545,
+          "Sandwich": 0.8225899934768677,
+          "Staple food": 0.8352497816085815,
+          "Tableware": 0.9256593585014343
+        },
+        "uploaded_by": "5629342b0d42e01151e822f6",
+        "uploaded_by_api": false,
+        "warning_adult": 1,
+        "warning_medical": 1,
+        "warning_racy": 1,
+        "warning_spoof": 1,
+        "warning_violence": 1
+      },
+      "id": "55e4d9390d42e03905934ad4/food/smokedpastrami.jpg",
+      "type": "assets"
+    },
+    {
+      "attributes": {
+        "analyzed_content_warnings": true,
+        "analyzed_faces": false,
+        "analyzed_tags": true,
+        "categories": [
+          "imgixfood"
+        ],
+        "color_model": "RGB",
+        "color_profile": null,
+        "colors": {
+          "dominant_colors": {
+            "#141515": 0.285250723361969,
+            "#62523c": 0.025722714141011238,
+            "#754b35": 0.017345132306218147,
+            "#844b26": 0.008259586989879608,
+            "#85745c": 0.019764011725783348,
+            "#904623": 0.006076696328818798,
+            "#976b54": 0.013569321483373642,
+            "#a3693d": 0.018820058554410934,
+            "#ad5e35": 0.009439527988433838,
+            "#c78b5c": 0.022772861644625664
+          }
+        },
+        "content_type": "image/jpeg",
+        "custom_fields": {
+          "Chef": "Cindy",
+          "Name": "Black Sesame Buns",
+          "Type": "Bread"
+        },
+        "date_created": 1611728291,
+        "date_modified": 1611777191,
+        "description": null,
+        "dpi_height": 72,
+        "dpi_width": 72,
+        "face_count": null,
+        "file_size": 1829781,
+        "has_frames": false,
+        "media_height": 4032,
+        "media_kind": "IMAGE",
+        "media_width": 3024,
+        "name": null,
+        "origin_path": "/food/blacksesame.jpg",
+        "source_id": "55e4d9390d42e03905934ad4",
+        "tags": {
+          "Baked goods": 0.8210548162460327,
+          "Cooking": 0.8101974725723267,
+          "Cuisine": 0.864722490310669,
+          "Dish": 0.8373819589614868,
+          "Finger food": 0.7333580255508423,
+          "Food": 0.9860673546791077,
+          "Gas": 0.7587639093399048,
+          "Ingredient": 0.906722366809845,
+          "Recipe": 0.8745620846748352,
+          "Staple food": 0.7449266314506531
+        },
+        "uploaded_by": "5629342b0d42e01151e822f6",
+        "uploaded_by_api": false,
+        "warning_adult": 1,
+        "warning_medical": 2,
+        "warning_racy": 2,
+        "warning_spoof": 2,
+        "warning_violence": 1
+      },
+      "id": "55e4d9390d42e03905934ad4/food/blacksesame.jpg",
+      "type": "assets"
+    },
+    {
+      "attributes": {
+        "analyzed_content_warnings": true,
+        "analyzed_faces": false,
+        "analyzed_tags": true,
+        "categories": [
+          "imgixfood"
+        ],
+        "color_model": "RGB",
+        "color_profile": "sRGB",
+        "colors": {
+          "dominant_colors": {
+            "#65553d": 0.06696165353059769,
+            "#734c37": 0.034395281225442886,
+            "#98674f": 0.022064896300435066,
+            "#9e663d": 0.013628318905830383,
+            "#b35e3a": 0.015162241645157337,
+            "#ee875f": 0.02106194756925106,
+            "#f5e8d1": 0.0492035411298275,
+            "#f87a4d": 0.009557521902024746,
+            "#fa8a54": 0.011563422158360481,
+            "#fd9e72": 0.006548672448843718
+          }
+        },
+        "content_type": "image/jpeg",
+        "custom_fields": {
+          "Chef": "Claire",
+          "Name": "Crepe Cake",
+          "Type": "Cake"
+        },
+        "date_created": 1611728204,
+        "date_modified": 1611777192,
+        "description": null,
+        "dpi_height": null,
+        "dpi_width": null,
+        "face_count": null,
+        "file_size": 673004,
+        "has_frames": false,
+        "media_height": 3024,
+        "media_kind": "IMAGE",
+        "media_width": 4032,
+        "name": null,
+        "origin_path": "/food/crepecake.jpeg",
+        "source_id": "55e4d9390d42e03905934ad4",
+        "tags": {
+          "Cuisine": 0.844914972782135,
+          "Dish": 0.8047364354133606,
+          "Dishware": 0.9350945353507996,
+          "Food": 0.9834872484207153,
+          "Ingredient": 0.8914812803268433,
+          "Plate": 0.8817097544670105,
+          "Recipe": 0.871525764465332,
+          "Serveware": 0.8141039609909058,
+          "Table": 0.904413640499115,
+          "Tableware": 0.9655819535255432
+        },
+        "uploaded_by": "5629342b0d42e01151e822f6",
+        "uploaded_by_api": false,
+        "warning_adult": 1,
+        "warning_medical": 2,
+        "warning_racy": 2,
+        "warning_spoof": 1,
+        "warning_violence": 1
+      },
+      "id": "55e4d9390d42e03905934ad4/food/crepecake.jpeg",
+      "type": "assets"
+    },
+    {
+      "attributes": {
+        "analyzed_content_warnings": true,
+        "analyzed_faces": false,
+        "analyzed_tags": true,
+        "categories": [
+          "imgixfood"
+        ],
+        "color_model": "RGB",
+        "color_profile": null,
+        "colors": {
+          "dominant_colors": {
+            "#30363c": 0.1542772799730301,
+            "#5d2b05": 0.052920352667570114,
+            "#6e797b": 0.03221238777041435,
+            "#7a4517": 0.058879055082798004,
+            "#9f6b39": 0.04129793494939804,
+            "#ac691f": 0.029262537136673927,
+            "#b0977f": 0.024365780875086784,
+            "#c8915a": 0.039469026029109955,
+            "#cb8c41": 0.014513274654746056,
+            "#ffdb98": 0.001533923321403563
+          }
+        },
+        "content_type": "image/jpeg",
+        "custom_fields": {
+          "Chef": "Erika",
+          "Name": "Seafood Gumbo",
+          "Type": "Dinner"
+        },
+        "date_created": 1611728130,
+        "date_modified": 1611777192,
+        "description": null,
+        "dpi_height": 72,
+        "dpi_width": 72,
+        "face_count": null,
+        "file_size": 900718,
+        "has_frames": false,
+        "media_height": 4032,
+        "media_kind": "IMAGE",
+        "media_width": 3024,
+        "name": null,
+        "origin_path": "/food/seafoodgumbo.jpg",
+        "source_id": "55e4d9390d42e03905934ad4",
+        "tags": {
+          "Bowl": 0.7344436645507812,
+          "Cuisine": 0.7917479872703552,
+          "Dish": 0.7661818265914917,
+          "Food": 0.9699450731277466,
+          "Ingredient": 0.8902263641357422,
+          "Meat": 0.7518903613090515,
+          "Produce": 0.7358761429786682,
+          "Recipe": 0.8640502691268921,
+          "Staple food": 0.8303977847099304,
+          "Tableware": 0.9471853971481323
+        },
+        "uploaded_by": "5629342b0d42e01151e822f6",
+        "uploaded_by_api": false,
+        "warning_adult": 1,
+        "warning_medical": 1,
+        "warning_racy": 1,
+        "warning_spoof": 1,
+        "warning_violence": 1
+      },
+      "id": "55e4d9390d42e03905934ad4/food/seafoodgumbo.jpg",
+      "type": "assets"
+    },
+    {
+      "attributes": {
+        "analyzed_content_warnings": true,
+        "analyzed_faces": false,
+        "analyzed_tags": true,
+        "categories": [
+          "imgixfood"
+        ],
+        "color_model": "RGB",
+        "color_profile": null,
+        "colors": {
+          "dominant_colors": {
+            "#5b2c05": 0.033569321036338806,
+            "#78491a": 0.036342181265354156,
+            "#97793e": 0.044306784868240356,
+            "#9a6d3a": 0.029911505058407784,
+            "#b99c5d": 0.17752212285995483,
+            "#bc9d4e": 0.023480825126171112,
+            "#c1925d": 0.02218289114534855,
+            "#c68d40": 0.005604719743132591,
+            "#d2b262": 0.012153392657637596,
+            "#d3b778": 0.12861357629299164
+          }
+        },
+        "content_type": "image/jpeg",
+        "custom_fields": {
+          "Chef": "Tim",
+          "Name": "Stuffed Shells",
+          "Type": "Dinner"
+        },
+        "date_created": 1611727984,
+        "date_modified": 1611777192,
+        "description": null,
+        "dpi_height": null,
+        "dpi_width": null,
+        "face_count": null,
+        "file_size": 1000102,
+        "has_frames": false,
+        "media_height": 4032,
+        "media_kind": "IMAGE",
+        "media_width": 3024,
+        "name": null,
+        "origin_path": "/food/stuffedshells.jpg",
+        "source_id": "55e4d9390d42e03905934ad4",
+        "tags": {
+          "Baked goods": 0.8056492209434509,
+          "Cooking": 0.8101673722267151,
+          "Cuisine": 0.8286454677581787,
+          "Deep frying": 0.7894425988197327,
+          "Dish": 0.7947983145713806,
+          "Dumpling": 0.8681035041809082,
+          "Food": 0.9800408482551575,
+          "Ingredient": 0.8884010910987854,
+          "Recipe": 0.876919686794281,
+          "Tableware": 0.7939422130584717
+        },
+        "uploaded_by": "5629342b0d42e01151e822f6",
+        "uploaded_by_api": false,
+        "warning_adult": 1,
+        "warning_medical": 1,
+        "warning_racy": 2,
+        "warning_spoof": 1,
+        "warning_violence": 1
+      },
+      "id": "55e4d9390d42e03905934ad4/food/stuffedshells.jpg",
+      "type": "assets"
+    },
+    {
+      "attributes": {
+        "analyzed_content_warnings": true,
+        "analyzed_faces": false,
+        "analyzed_tags": true,
+        "categories": [
+          "imgixfood"
+        ],
+        "color_model": "RGB",
+        "color_profile": null,
+        "colors": {
+          "dominant_colors": {
+            "#221d19": 0.0187020655721426,
+            "#371209": 0.0037758112885057926,
+            "#9d2251": 0.006312684156000614,
+            "#a4a4a4": 0.2110324501991272,
+            "#ae1d08": 0.05705014616250992,
+            "#b6044a": 0.003067846642807126,
+            "#cd9163": 0.003657817142084241,
+            "#cfc2a0": 0.06353982537984848,
+            "#d52715": 0.03646017611026764,
+            "#f76c0b": 0.012153392657637596
+          }
+        },
+        "content_type": "image/jpeg",
+        "custom_fields": {
+          "Chef": "Cindy",
+          "Name": "Elmo Cake",
+          "Type": "Cake"
+        },
+        "date_created": 1611727902,
+        "date_modified": 1611777192,
+        "description": null,
+        "dpi_height": 72,
+        "dpi_width": 72,
+        "face_count": null,
+        "file_size": 942027,
+        "has_frames": false,
+        "media_height": 4032,
+        "media_kind": "IMAGE",
+        "media_width": 3024,
+        "name": null,
+        "origin_path": "/food/elmocake.jpg",
+        "source_id": "55e4d9390d42e03905934ad4",
+        "tags": {
+          "Cake decorating": 0.8341326117515564,
+          "Cake decorating supply": 0.8154160380363464,
+          "Cuisine": 0.7728428244590759,
+          "Dishware": 0.8371973037719727,
+          "Flower": 0.8778883814811707,
+          "Food": 0.9660192131996155,
+          "Ingredient": 0.7884802222251892,
+          "Party supply": 0.7583388090133667,
+          "Serveware": 0.8098621964454651,
+          "Sugar cake": 0.7642682790756226
+        },
+        "uploaded_by": "5629342b0d42e01151e822f6",
+        "uploaded_by_api": false,
+        "warning_adult": 1,
+        "warning_medical": 2,
+        "warning_racy": 2,
+        "warning_spoof": 4,
+        "warning_violence": 2
+      },
+      "id": "55e4d9390d42e03905934ad4/food/elmocake.jpg",
+      "type": "assets"
+    },
+    {
+      "attributes": {
+        "analyzed_content_warnings": true,
+        "analyzed_faces": false,
+        "analyzed_tags": true,
+        "categories": [
+          "imgixfood"
+        ],
+        "color_model": "RGB",
+        "color_profile": "sRGB",
+        "colors": {
+          "dominant_colors": {
+            "#3b302d": 0.05952802300453186,
+            "#6a1a1e": 0.012153392657637596,
+            "#7daaa7": 0.00949852541089058,
+            "#804924": 0.02064896747469902,
+            "#873536": 0.011386430822312832,
+            "#8b3e19": 0.017994100227952003,
+            "#992432": 0.004955752287060022,
+            "#a16840": 0.01787610538303852,
+            "#b15d34": 0.010973451659083366,
+            "#f4dfc3": 0.0723893791437149
+          }
+        },
+        "content_type": "image/jpeg",
+        "custom_fields": {
+          "Chef": "Cindy",
+          "Name": "Unicorn Roll",
+          "Type": "Cake"
+        },
+        "date_created": 1611727830,
+        "date_modified": 1611777192,
+        "description": null,
+        "dpi_height": null,
+        "dpi_width": null,
+        "face_count": null,
+        "file_size": 499818,
+        "has_frames": false,
+        "media_height": 4032,
+        "media_kind": "IMAGE",
+        "media_width": 3024,
+        "name": null,
+        "origin_path": "/food/unicornroll.jpeg",
+        "source_id": "55e4d9390d42e03905934ad4",
+        "tags": {
+          "Baked goods": 0.8074026703834534,
+          "Cake": 0.8741962313652039,
+          "Cuisine": 0.8299974799156189,
+          "Dishware": 0.8662117719650269,
+          "Food": 0.9765223860740662,
+          "Ingredient": 0.9007111191749573,
+          "Plate": 0.8588865399360657,
+          "Recipe": 0.8747351169586182,
+          "Table": 0.8496276140213013,
+          "Tableware": 0.9490607380867004
+        },
+        "uploaded_by": "5629342b0d42e01151e822f6",
+        "uploaded_by_api": false,
+        "warning_adult": 2,
+        "warning_medical": 2,
+        "warning_racy": 2,
+        "warning_spoof": 4,
+        "warning_violence": 2
+      },
+      "id": "55e4d9390d42e03905934ad4/food/unicornroll.jpeg",
+      "type": "assets"
+    },
+    {
+      "attributes": {
+        "analyzed_content_warnings": true,
+        "analyzed_faces": false,
+        "analyzed_tags": true,
+        "categories": [
+          "imgixfood"
+        ],
+        "color_model": "RGB",
+        "color_profile": null,
+        "colors": {
+          "dominant_colors": {
+            "#293710": 0.040235988795757294,
+            "#3d3313": 0.033097345381975174,
+            "#4a562c": 0.021592920646071434,
+            "#5d5234": 0.04554572328925133,
+            "#847b74": 0.07758112251758575,
+            "#867860": 0.07474926114082336,
+            "#a19790": 0.13899704813957214,
+            "#a79780": 0.07404129952192307,
+            "#b69182": 0.03852507472038269,
+            "#cfbfa5": 0.041474927216768265
+          }
+        },
+        "content_type": "image/jpeg",
+        "custom_fields": {
+          "Chef": "Nick3",
+          "Name": "Carnitas Tacos",
+          "Type": "Dinner"
+        },
+        "date_created": 1611727512,
+        "date_modified": 1611777191,
+        "description": null,
+        "dpi_height": 72,
+        "dpi_width": 72,
+        "face_count": null,
+        "file_size": 1511683,
+        "has_frames": false,
+        "media_height": 2712,
+        "media_kind": "IMAGE",
+        "media_width": 3614,
+        "name": null,
+        "origin_path": "/food/carnitastacos.jpg",
+        "source_id": "55e4d9390d42e03905934ad4",
+        "tags": {
+          "Cuisine": 0.8541653752326965,
+          "Dish": 0.8430246710777283,
+          "Fines herbes": 0.8730001449584961,
+          "Food": 0.9858123064041138,
+          "Ingredient": 0.9073420763015747,
+          "Leaf vegetable": 0.8489746451377869,
+          "Produce": 0.7957634329795837,
+          "Recipe": 0.8789965510368347,
+          "Staple food": 0.865211009979248,
+          "Tableware": 0.9362603425979614
+        },
+        "uploaded_by": "5629342b0d42e01151e822f6",
+        "uploaded_by_api": false,
+        "warning_adult": 1,
+        "warning_medical": 1,
+        "warning_racy": 1,
+        "warning_spoof": 1,
+        "warning_violence": 1
+      },
+      "id": "55e4d9390d42e03905934ad4/food/carnitastacos.jpg",
+      "type": "assets"
+    },
+    {
+      "attributes": {
+        "analyzed_content_warnings": true,
+        "analyzed_faces": false,
+        "analyzed_tags": true,
+        "categories": [
+          "imgixfood"
+        ],
+        "color_model": "RGB",
+        "color_profile": null,
+        "colors": {
+          "dominant_colors": {
+            "#221c06": 0.020353982225060463,
+            "#393116": 0.037050146609544754,
+            "#473707": 0.02383480779826641,
+            "#625134": 0.028436578810214996,
+            "#655119": 0.055280234664678574,
+            "#8a7338": 0.04560472071170807,
+            "#917723": 0.022477876394987106,
+            "#b09755": 0.04566371813416481,
+            "#bb9d44": 0.07598820328712463,
+            "#d5b658": 0.06289085745811462
+          }
+        },
+        "content_type": "image/jpeg",
+        "custom_fields": {
+          "Chef": "Karthik",
+          "Name": "Pork Dumpling Stir Fry",
+          "Type": "Dinner"
+        },
+        "date_created": 1611727404,
+        "date_modified": 1611777192,
+        "description": null,
+        "dpi_height": 72,
+        "dpi_width": 72,
+        "face_count": null,
+        "file_size": 1113849,
+        "has_frames": false,
+        "media_height": 3024,
+        "media_kind": "IMAGE",
+        "media_width": 4032,
+        "name": null,
+        "origin_path": "/food/porkdumpling.jpg",
+        "source_id": "55e4d9390d42e03905934ad4",
+        "tags": {
+          "Cuisine": 0.8569680452346802,
+          "Dish": 0.8444550633430481,
+          "Fines herbes": 0.7560043334960938,
+          "Food": 0.9817884564399719,
+          "Ingredient": 0.909164547920227,
+          "Leaf vegetable": 0.8105504512786865,
+          "Meat": 0.7372058629989624,
+          "Produce": 0.7893737554550171,
+          "Recipe": 0.8813652992248535,
+          "Staple food": 0.8711492419242859
+        },
+        "uploaded_by": "5629342b0d42e01151e822f6",
+        "uploaded_by_api": false,
+        "warning_adult": 2,
+        "warning_medical": 1,
+        "warning_racy": 1,
+        "warning_spoof": 1,
+        "warning_violence": 1
+      },
+      "id": "55e4d9390d42e03905934ad4/food/porkdumpling.jpg",
+      "type": "assets"
+    },
+    {
+      "attributes": {
+        "analyzed_content_warnings": true,
+        "analyzed_faces": false,
+        "analyzed_tags": true,
+        "categories": [
+          "imgixfood"
+        ],
+        "color_model": "RGB",
+        "color_profile": null,
+        "colors": {
+          "dominant_colors": {
+            "#3f3927": 0.01504424773156643,
+            "#533209": 0.0006489675724878907,
+            "#5a523d": 0.044247787445783615,
+            "#af9b80": 0.034749262034893036,
+            "#b19560": 0.006312684156000614,
+            "#b46461": 0.004837757907807827,
+            "#debc87": 0.008613569661974907,
+            "#dfc4a8": 0.056106194853782654,
+            "#e8bca1": 0.02619468979537487,
+            "#eab78b": 0.005958701949566603
+          }
+        },
+        "content_type": "image/jpeg",
+        "custom_fields": {
+          "Chef": "Cindy",
+          "Name": "Smash Cake",
+          "Type": "Cake"
+        },
+        "date_created": 1611727301,
+        "date_modified": 1611777191,
+        "description": null,
+        "dpi_height": 72,
+        "dpi_width": 72,
+        "face_count": null,
+        "file_size": 1080115,
+        "has_frames": false,
+        "media_height": 3024,
+        "media_kind": "IMAGE",
+        "media_width": 4032,
+        "name": null,
+        "origin_path": "/food/birthdaycake.jpg",
+        "source_id": "55e4d9390d42e03905934ad4",
+        "tags": {
+          "Art": 0.8297619819641113,
+          "Chair": 0.8821260929107666,
+          "Furniture": 0.9475001096725464,
+          "Paint": 0.8355551958084106,
+          "Rectangle": 0.858107328414917,
+          "Shelf": 0.6638944745063782,
+          "Shelving": 0.8717421293258667,
+          "Souvenir": 0.6719251871109009,
+          "Table": 0.927278995513916,
+          "Visual arts": 0.6786662936210632
+        },
+        "uploaded_by": "5629342b0d42e01151e822f6",
+        "uploaded_by_api": false,
+        "warning_adult": 1,
+        "warning_medical": 1,
+        "warning_racy": 1,
+        "warning_spoof": 1,
+        "warning_violence": 1
+      },
+      "id": "55e4d9390d42e03905934ad4/food/birthdaycake.jpg",
+      "type": "assets"
+    },
+    {
+      "attributes": {
+        "analyzed_content_warnings": true,
+        "analyzed_faces": false,
+        "analyzed_tags": true,
+        "categories": [
+          "imgixfood"
+        ],
+        "color_model": "RGB",
+        "color_profile": null,
+        "colors": {
+          "dominant_colors": {
+            "#130d12": 0.3258996903896332,
+            "#350f01": 0.008259586989879608,
+            "#8a4d06": 0.011563422158360481,
+            "#ae6a16": 0.08784660696983337,
+            "#b5620d": 0.034749262034893036,
+            "#c56d08": 0.008259586989879608,
+            "#cc862d": 0.046253688633441925,
+            "#da8d1f": 0.0759292021393776,
+            "#dc8215": 0.03091445378959179,
+            "#f0a430": 0.005958701949566603
+          }
+        },
+        "content_type": "image/jpeg",
+        "custom_fields": {
+          "Chef": "Nick3",
+          "Name": "Croquettes",
+          "Type": "Dinner"
+        },
+        "date_created": 1611727159,
+        "date_modified": 1611777192,
+        "description": null,
+        "dpi_height": 72,
+        "dpi_width": 72,
+        "face_count": null,
+        "file_size": 1022227,
+        "has_frames": false,
+        "media_height": 3024,
+        "media_kind": "IMAGE",
+        "media_width": 4032,
+        "name": null,
+        "origin_path": "/food/croquettes.jpg",
+        "source_id": "55e4d9390d42e03905934ad4",
+        "tags": {
+          "Cuisine": 0.8549559712409973,
+          "Deep frying": 0.8123217821121216,
+          "Dish": 0.8500567674636841,
+          "Fast food": 0.7700496912002563,
+          "Food": 0.9845393896102905,
+          "Fried food": 0.761857807636261,
+          "Hushpuppy": 0.8166382908821106,
+          "Ingredient": 0.8932194113731384,
+          "Produce": 0.7844604253768921,
+          "Recipe": 0.8722259402275085
+        },
+        "uploaded_by": "5629342b0d42e01151e822f6",
+        "uploaded_by_api": false,
+        "warning_adult": 1,
+        "warning_medical": 1,
+        "warning_racy": 1,
+        "warning_spoof": 1,
+        "warning_violence": 1
+      },
+      "id": "55e4d9390d42e03905934ad4/food/croquettes.jpg",
+      "type": "assets"
+    },
+    {
+      "attributes": {
+        "analyzed_content_warnings": true,
+        "analyzed_faces": false,
+        "analyzed_tags": true,
+        "categories": [
+          "imgixfood"
+        ],
+        "color_model": "RGB",
+        "color_profile": "sRGB IEC61966-2.1",
+        "colors": {
+          "dominant_colors": {
+            "#774c1c": 0.010873015969991684,
+            "#897558": 0.02349206432700157,
+            "#967b46": 0.015396825037896633,
+            "#9b7e28": 0.018333332613110542,
+            "#ad9f7d": 0.021190475672483444,
+            "#b39c40": 0.1007142886519432,
+            "#b4a05f": 0.08865079283714294,
+            "#c4b67b": 0.023968253284692764,
+            "#c4bb95": 0.029682539403438568,
+            "#cab657": 0.0023015872575342655
+          }
+        },
+        "content_type": "image/jpeg",
+        "custom_fields": {
+          "Chef": "Tom",
+          "Name": "Dutch Pancake",
+          "Type": "Breakfast"
+        },
+        "date_created": 1611727011,
+        "date_modified": 1611777192,
+        "description": null,
+        "dpi_height": 72,
+        "dpi_width": 72,
+        "face_count": null,
+        "file_size": 3018844,
+        "has_frames": false,
+        "media_height": 2160,
+        "media_kind": "IMAGE",
+        "media_width": 3840,
+        "name": null,
+        "origin_path": "/food/dutchpancake.jpg",
+        "source_id": "55e4d9390d42e03905934ad4",
+        "tags": {
+          "Baked goods": 0.7815617322921753,
+          "Cooking": 0.7792673110961914,
+          "Flour": 0.8532214760780334,
+          "Food": 0.9724205732345581,
+          "Ingredient": 0.8588224053382874,
+          "Produce": 0.7738118171691895,
+          "Recipe": 0.8727898001670837,
+          "Serveware": 0.7962063550949097,
+          "Staple food": 0.8667807579040527,
+          "Tableware": 0.9109411835670471
+        },
+        "uploaded_by": "5629342b0d42e01151e822f6",
+        "uploaded_by_api": false,
+        "warning_adult": 1,
+        "warning_medical": 2,
+        "warning_racy": 1,
+        "warning_spoof": 1,
+        "warning_violence": 2
+      },
+      "id": "55e4d9390d42e03905934ad4/food/dutchpancake.jpg",
+      "type": "assets"
+    },
+    {
+      "attributes": {
+        "analyzed_content_warnings": true,
+        "analyzed_faces": false,
+        "analyzed_tags": true,
+        "categories": [
+          "imgixfood"
+        ],
+        "color_model": "RGB",
+        "color_profile": null,
+        "colors": {
+          "dominant_colors": {
+            "#351306": 0.03758111968636513,
+            "#502b1a": 0.14141592383384705,
+            "#714a39": 0.15604719519615173,
+            "#99695b": 0.0796460211277008,
+            "#9a6c43": 0.016578171402215958,
+            "#b26766": 0.02613569237291813,
+            "#be9b64": 0.02029498480260372,
+            "#bf877a": 0.02377581037580967,
+            "#ca7e7c": 0.014100294560194016,
+            "#d0b695": 0.16772861778736115
+          }
+        },
+        "content_type": "image/jpeg",
+        "custom_fields": {
+          "Chef": "Tim",
+          "Name": "Teriyaki Ribeye",
+          "Type": "Dinner"
+        },
+        "date_created": 1611726875,
+        "date_modified": 1611777192,
+        "description": null,
+        "dpi_height": null,
+        "dpi_width": null,
+        "face_count": null,
+        "file_size": 1211488,
+        "has_frames": false,
+        "media_height": 4032,
+        "media_kind": "IMAGE",
+        "media_width": 3024,
+        "name": null,
+        "origin_path": "/food/teriyakiribeye.jpg",
+        "source_id": "55e4d9390d42e03905934ad4",
+        "tags": {
+          "Animal product": 0.8228104710578918,
+          "Beef": 0.8648539185523987,
+          "Cuisine": 0.8616385459899902,
+          "Dish": 0.8500567674636841,
+          "Food": 0.9845384955406189,
+          "Ingredient": 0.9123704433441162,
+          "Pork": 0.8328153491020203,
+          "Recipe": 0.8797533512115479,
+          "Red meat": 0.8299420475959778,
+          "Steak": 0.84639573097229
+        },
+        "uploaded_by": "5629342b0d42e01151e822f6",
+        "uploaded_by_api": false,
+        "warning_adult": 2,
+        "warning_medical": 3,
+        "warning_racy": 2,
+        "warning_spoof": 1,
+        "warning_violence": 1
+      },
+      "id": "55e4d9390d42e03905934ad4/food/teriyakiribeye.jpg",
+      "type": "assets"
+    },
+    {
+      "attributes": {
+        "analyzed_content_warnings": true,
+        "analyzed_faces": false,
+        "analyzed_tags": true,
+        "categories": [
+          "imgixfood"
+        ],
+        "color_model": "RGB",
+        "color_profile": null,
+        "colors": {
+          "dominant_colors": {
+            "#190d06": 0.14460177719593048,
+            "#88755f": 0.049321532249450684,
+            "#a59996": 0.12879055738449097,
+            "#ac9c84": 0.09929203242063522,
+            "#bc9386": 0.020884955301880836,
+            "#bc9396": 0.024778760969638824,
+            "#c2ce85": 0.012743363156914711,
+            "#c7bcb7": 0.10247787833213806,
+            "#ccbca2": 0.11769911646842957,
+            "#e0b4ba": 0.0301474928855896
+          }
+        },
+        "content_type": "image/jpeg",
+        "custom_fields": {
+          "Chef": "Cindy",
+          "Name": "Macarons",
+          "Type": "Cookie"
+        },
+        "date_created": 1611726634,
+        "date_modified": 1611777192,
+        "description": null,
+        "dpi_height": 72,
+        "dpi_width": 72,
+        "face_count": null,
+        "file_size": 1146134,
+        "has_frames": false,
+        "media_height": 3024,
+        "media_kind": "IMAGE",
+        "media_width": 4032,
+        "name": null,
+        "origin_path": "/food/macaron.jpg",
+        "source_id": "55e4d9390d42e03905934ad4",
+        "tags": {
+          "Baked goods": 0.8689092993736267,
+          "Convenience food": 0.8501975536346436,
+          "Cuisine": 0.8642765879631042,
+          "Dairy": 0.7572266459465027,
+          "Food": 0.9849147796630859,
+          "Ingredient": 0.8675456047058105,
+          "Macaroon": 0.8917025923728943,
+          "Retail": 0.7884736657142639,
+          "Shelving": 0.7590044140815735,
+          "Sweetness": 0.7634177803993225
+        },
+        "uploaded_by": "5629342b0d42e01151e822f6",
+        "uploaded_by_api": false,
+        "warning_adult": 1,
+        "warning_medical": 1,
+        "warning_racy": 1,
+        "warning_spoof": 1,
+        "warning_violence": 1
+      },
+      "id": "55e4d9390d42e03905934ad4/food/macaron.jpg",
+      "type": "assets"
+    },
+    {
+      "attributes": {
+        "analyzed_content_warnings": true,
+        "analyzed_faces": false,
+        "analyzed_tags": true,
+        "categories": [
+          "imgixfood"
+        ],
+        "color_model": "RGB",
+        "color_profile": null,
+        "colors": {
+          "dominant_colors": {
+            "#151410": 0.12495575100183487,
+            "#460200": 0.0011209439253434539,
+            "#4a540c": 0.011740412563085556,
+            "#5c5119": 0.016047198325395584,
+            "#747c17": 0.0018879056442528963,
+            "#8f3615": 0.023480825126171112,
+            "#a92e06": 0.01150442473590374,
+            "#b29b7c": 0.0824778750538826,
+            "#d4bb9b": 0.13174040615558624,
+            "#e7e1d7": 0.044188790023326874
+          }
+        },
+        "content_type": "image/jpeg",
+        "custom_fields": {
+          "Chef": "Karthik",
+          "Name": "Falafel Wrap",
+          "Type": "Dinner"
+        },
+        "date_created": 1611726490,
+        "date_modified": 1611777192,
+        "description": null,
+        "dpi_height": 72,
+        "dpi_width": 72,
+        "face_count": null,
+        "file_size": 1489144,
+        "has_frames": false,
+        "media_height": 3024,
+        "media_kind": "IMAGE",
+        "media_width": 4032,
+        "name": null,
+        "origin_path": "/food/falafel.jpg",
+        "source_id": "55e4d9390d42e03905934ad4",
+        "tags": {
+          "Cooktop": 0.8282755017280579,
+          "Dishware": 0.8653342127799988,
+          "Fines herbes": 0.8560493588447571,
+          "Food": 0.9850650429725647,
+          "Gas stove": 0.8558967113494873,
+          "Ingredient": 0.8784905672073364,
+          "Leaf vegetable": 0.8183813095092773,
+          "Recipe": 0.8733546733856201,
+          "Seafood": 0.8673141002655029,
+          "Tableware": 0.9341073036193848
+        },
+        "uploaded_by": "5629342b0d42e01151e822f6",
+        "uploaded_by_api": false,
+        "warning_adult": 1,
+        "warning_medical": 2,
+        "warning_racy": 1,
+        "warning_spoof": 1,
+        "warning_violence": 2
+      },
+      "id": "55e4d9390d42e03905934ad4/food/falafel.jpg",
+      "type": "assets"
+    },
+    {
+      "attributes": {
+        "analyzed_content_warnings": true,
+        "analyzed_faces": false,
+        "analyzed_tags": true,
+        "categories": [
+          "imgixfood"
+        ],
+        "color_model": "RGB",
+        "color_profile": null,
+        "colors": {
+          "dominant_colors": {
+            "#311503": 0.011563422158360481,
+            "#592f05": 0.019646016880869865,
+            "#6b5117": 0.03598820045590401,
+            "#6d2103": 0.013982300646603107,
+            "#724713": 0.037522122263908386,
+            "#775902": 0.014277285896241665,
+            "#7e5403": 0.026902655139565468,
+            "#92710d": 0.06949852406978607,
+            "#946709": 0.048259586095809937,
+            "#b7973d": 0.03209439665079117
+          }
+        },
+        "content_type": "image/jpeg",
+        "custom_fields": {
+          "Chef": "Karthik",
+          "Name": "Sous Vide Burger",
+          "Type": "Dinner"
+        },
+        "date_created": 1611726416,
+        "date_modified": 1611777192,
+        "description": null,
+        "dpi_height": 72,
+        "dpi_width": 72,
+        "face_count": null,
+        "file_size": 981206,
+        "has_frames": false,
+        "media_height": 3024,
+        "media_kind": "IMAGE",
+        "media_width": 4032,
+        "name": null,
+        "origin_path": "/food/sousvideburger.jpg",
+        "source_id": "55e4d9390d42e03905934ad4",
+        "tags": {
+          "Baked goods": 0.8680897355079651,
+          "Bread": 0.8243715763092041,
+          "Bun": 0.9034541845321655,
+          "Cuisine": 0.854637861251831,
+          "Dish": 0.843011736869812,
+          "Fast food": 0.8931102156639099,
+          "Food": 0.9821656942367554,
+          "Ingredient": 0.9066122770309448,
+          "Sandwich": 0.8460171222686768,
+          "Staple food": 0.8775036334991455
+        },
+        "uploaded_by": "5629342b0d42e01151e822f6",
+        "uploaded_by_api": false,
+        "warning_adult": 1,
+        "warning_medical": 1,
+        "warning_racy": 1,
+        "warning_spoof": 1,
+        "warning_violence": 1
+      },
+      "id": "55e4d9390d42e03905934ad4/food/sousvideburger.jpg",
+      "type": "assets"
+    },
+    {
+      "attributes": {
+        "analyzed_content_warnings": true,
+        "analyzed_faces": false,
+        "analyzed_tags": true,
+        "categories": [
+          "imgixfood"
+        ],
+        "color_model": "RGB",
+        "color_profile": null,
+        "colors": {
+          "dominant_colors": {
+            "#303753": 0.09876105934381485,
+            "#4e2c14": 0.006725663784891367,
+            "#804b22": 0.03958702087402344,
+            "#9e6a39": 0.05598820000886917,
+            "#a36e25": 0.024424778297543526,
+            "#ab5d32": 0.0064896754920482635,
+            "#ba8652": 0.01740412972867489,
+            "#be6324": 0.03687315806746483,
+            "#e2e6e2": 0.03504424914717674,
+            "#ffdd80": 0.0004719764110632241
+          }
+        },
+        "content_type": "image/jpeg",
+        "custom_fields": {
+          "Chef": "Nick3",
+          "Name": "Grilled Cheese",
+          "Type": "Dinner"
+        },
+        "date_created": 1611728744,
+        "date_modified": 1611777192,
+        "description": null,
+        "dpi_height": 72,
+        "dpi_width": 72,
+        "face_count": null,
+        "file_size": 746774,
+        "has_frames": false,
+        "media_height": 3024,
+        "media_kind": "IMAGE",
+        "media_width": 4032,
+        "name": null,
+        "origin_path": "/food/grilledcheese.jpg",
+        "source_id": "55e4d9390d42e03905934ad4",
+        "tags": {
+          "Condiment": 0.855405330657959,
+          "Cuisine": 0.8513140678405762,
+          "Dish": 0.8472408652305603,
+          "Dishware": 0.8073661923408508,
+          "Food": 0.9815514087677002,
+          "Ingredient": 0.9119260311126709,
+          "Produce": 0.8011171817779541,
+          "Recipe": 0.8536191582679749,
+          "Sliced bread": 0.8784397840499878,
+          "Tableware": 0.9556791186332703
+        },
+        "uploaded_by": "5629342b0d42e01151e822f6",
+        "uploaded_by_api": false,
+        "warning_adult": 1,
+        "warning_medical": 2,
+        "warning_racy": 1,
+        "warning_spoof": 1,
+        "warning_violence": 1
+      },
+      "id": "55e4d9390d42e03905934ad4/food/grilledcheese.jpg",
+      "type": "assets"
+    },
+    {
+      "attributes": {
+        "analyzed_content_warnings": true,
+        "analyzed_faces": false,
+        "analyzed_tags": true,
+        "categories": [
+          "imgixfood"
+        ],
+        "color_model": "RGB",
+        "color_profile": null,
+        "colors": {
+          "dominant_colors": {
+            "#393839": 0.08265486359596252,
+            "#4d2a1a": 0.04873156175017357,
+            "#545053": 0.05569321662187576,
+            "#60543e": 0.04159292206168175,
+            "#7d7472": 0.041828908026218414,
+            "#84785e": 0.07923303544521332,
+            "#a29b99": 0.03528023511171341,
+            "#a45718": 0.0015929203946143389,
+            "#a69b80": 0.058938052505254745,
+            "#c5bea3": 0.022064896300435066
+          }
+        },
+        "content_type": "image/jpeg",
+        "custom_fields": {
+          "Chef": "Chris",
+          "Name": "Kombu Dashi",
+          "Type": "Dinner"
+        },
+        "date_created": 1611728661,
+        "date_modified": 1611777192,
+        "description": null,
+        "dpi_height": 72,
+        "dpi_width": 72,
+        "face_count": null,
+        "file_size": 1232859,
+        "has_frames": false,
+        "media_height": 3024,
+        "media_kind": "IMAGE",
+        "media_width": 4032,
+        "name": null,
+        "origin_path": "/food/kombudashi.jpg",
+        "source_id": "55e4d9390d42e03905934ad4",
+        "tags": {
+          "Computer keyboard": 0.8681445121765137,
+          "Dishware": 0.879516065120697,
+          "Food": 0.9804323315620422,
+          "Ingredient": 0.8616929650306702,
+          "Input device": 0.8430051803588867,
+          "Plate": 0.8658533096313477,
+          "Recipe": 0.8740642070770264,
+          "Seafood": 0.8147273659706116,
+          "Table": 0.8909575939178467,
+          "Tableware": 0.9617835283279419
+        },
+        "uploaded_by": "5629342b0d42e01151e822f6",
+        "uploaded_by_api": false,
+        "warning_adult": 1,
+        "warning_medical": 1,
+        "warning_racy": 1,
+        "warning_spoof": 1,
+        "warning_violence": 1
+      },
+      "id": "55e4d9390d42e03905934ad4/food/kombudashi.jpg",
+      "type": "assets"
+    },
+    {
+      "attributes": {
+        "analyzed_content_warnings": true,
+        "analyzed_faces": false,
+        "analyzed_tags": true,
+        "categories": [
+          "imgixfood"
+        ],
+        "color_model": "RGB",
+        "color_profile": "sRGB",
+        "colors": {
+          "dominant_colors": {
+            "#259cf1": 0.007698412518948317,
+            "#33a5d8": 0.0041269841603934765,
+            "#36302c": 0.1490476131439209,
+            "#377f96": 0.0033333334140479565,
+            "#6d7c36": 0.0014285714132711291,
+            "#844274": 0.0011111111380159855,
+            "#a1661d": 0.025555554777383804,
+            "#ab8c06": 0.0002380952355451882,
+            "#de2920": 0.0053174602799117565,
+            "#ef8419": 0.0006349206087179482
+          }
+        },
+        "content_type": "image/jpeg",
+        "custom_fields": {
+          "Chef": "Tom",
+          "Name": "Birthday Cake",
+          "Type": "Cake"
+        },
+        "date_created": 1611728556,
+        "date_modified": 1611777191,
+        "description": null,
+        "dpi_height": null,
+        "dpi_width": null,
+        "face_count": null,
+        "file_size": 546710,
+        "has_frames": false,
+        "media_height": 3840,
+        "media_kind": "IMAGE",
+        "media_width": 2160,
+        "name": null,
+        "origin_path": "/food/bdaycake.jpg",
+        "source_id": "55e4d9390d42e03905934ad4",
+        "tags": {
+          "Birthday candle": 0.9162330627441406,
+          "Cake": 0.906333863735199,
+          "Cake decorating": 0.8959047794342041,
+          "Cake decorating supply": 0.9030027985572815,
+          "Chair": 0.8315296769142151,
+          "Food": 0.9792002439498901,
+          "Ingredient": 0.8887951374053955,
+          "Sugar cake": 0.807526707649231,
+          "Table": 0.9239537119865417,
+          "Tableware": 0.9345065951347351
+        },
+        "uploaded_by": "5629342b0d42e01151e822f6",
+        "uploaded_by_api": false,
+        "warning_adult": 1,
+        "warning_medical": 1,
+        "warning_racy": 1,
+        "warning_spoof": 1,
+        "warning_violence": 1
+      },
+      "id": "55e4d9390d42e03905934ad4/food/bdaycake.jpg",
+      "type": "assets"
+    },
+    {
+      "attributes": {
+        "analyzed_content_warnings": true,
+        "analyzed_faces": false,
+        "analyzed_tags": true,
+        "categories": [
+          "imgixfood"
+        ],
+        "color_model": "RGB",
+        "color_profile": null,
+        "colors": {
+          "dominant_colors": {
+            "#381303": 0.02176991105079651,
+            "#4c220e": 0.03976401314139366,
+            "#542e07": 0.03622419014573097,
+            "#684f12": 0.017168141901493073,
+            "#6a1d06": 0.009557521902024746,
+            "#71481a": 0.028082596138119698,
+            "#882e12": 0.006312684156000614,
+            "#90781d": 0.0162831861525774,
+            "#ad9737": 0.022300884127616882,
+            "#b39c18": 0.007610619533807039
+          }
+        },
+        "content_type": "image/jpeg",
+        "custom_fields": {
+          "Chef": "Karthik",
+          "Name": "Smoked Pastrami Burger",
+          "Type": "Dinner"
+        },
+        "date_created": 1611728442,
+        "date_modified": 1611777192,
+        "description": null,
+        "dpi_height": 72,
+        "dpi_width": 72,
+        "face_count": null,
+        "file_size": 927517,
+        "has_frames": false,
+        "media_height": 3024,
+        "media_kind": "IMAGE",
+        "media_width": 4032,
+        "name": null,
+        "origin_path": "/food/smokedpastrami.jpg",
+        "source_id": "55e4d9390d42e03905934ad4",
+        "tags": {
+          "Baked goods": 0.8566719889640808,
+          "Bun": 0.8889710307121277,
+          "Cuisine": 0.8555914163589478,
+          "Fast food": 0.8791853189468384,
+          "Food": 0.9852239489555359,
+          "Ingredient": 0.8960077166557312,
+          "Recipe": 0.8740832805633545,
+          "Sandwich": 0.8225899934768677,
+          "Staple food": 0.8352497816085815,
+          "Tableware": 0.9256593585014343
+        },
+        "uploaded_by": "5629342b0d42e01151e822f6",
+        "uploaded_by_api": false,
+        "warning_adult": 1,
+        "warning_medical": 1,
+        "warning_racy": 1,
+        "warning_spoof": 1,
+        "warning_violence": 1
+      },
+      "id": "55e4d9390d42e03905934ad4/food/smokedpastrami.jpg",
+      "type": "assets"
+    },
+    {
+      "attributes": {
+        "analyzed_content_warnings": true,
+        "analyzed_faces": false,
+        "analyzed_tags": true,
+        "categories": [
+          "imgixfood"
+        ],
+        "color_model": "RGB",
+        "color_profile": null,
+        "colors": {
+          "dominant_colors": {
+            "#141515": 0.285250723361969,
+            "#62523c": 0.025722714141011238,
+            "#754b35": 0.017345132306218147,
+            "#844b26": 0.008259586989879608,
+            "#85745c": 0.019764011725783348,
+            "#904623": 0.006076696328818798,
+            "#976b54": 0.013569321483373642,
+            "#a3693d": 0.018820058554410934,
+            "#ad5e35": 0.009439527988433838,
+            "#c78b5c": 0.022772861644625664
+          }
+        },
+        "content_type": "image/jpeg",
+        "custom_fields": {
+          "Chef": "Cindy",
+          "Name": "Black Sesame Buns",
+          "Type": "Bread"
+        },
+        "date_created": 1611728291,
+        "date_modified": 1611777191,
+        "description": null,
+        "dpi_height": 72,
+        "dpi_width": 72,
+        "face_count": null,
+        "file_size": 1829781,
+        "has_frames": false,
+        "media_height": 4032,
+        "media_kind": "IMAGE",
+        "media_width": 3024,
+        "name": null,
+        "origin_path": "/food/blacksesame.jpg",
+        "source_id": "55e4d9390d42e03905934ad4",
+        "tags": {
+          "Baked goods": 0.8210548162460327,
+          "Cooking": 0.8101974725723267,
+          "Cuisine": 0.864722490310669,
+          "Dish": 0.8373819589614868,
+          "Finger food": 0.7333580255508423,
+          "Food": 0.9860673546791077,
+          "Gas": 0.7587639093399048,
+          "Ingredient": 0.906722366809845,
+          "Recipe": 0.8745620846748352,
+          "Staple food": 0.7449266314506531
+        },
+        "uploaded_by": "5629342b0d42e01151e822f6",
+        "uploaded_by_api": false,
+        "warning_adult": 1,
+        "warning_medical": 2,
+        "warning_racy": 2,
+        "warning_spoof": 2,
+        "warning_violence": 1
+      },
+      "id": "55e4d9390d42e03905934ad4/food/blacksesame.jpg",
+      "type": "assets"
+    },
+    {
+      "attributes": {
+        "analyzed_content_warnings": true,
+        "analyzed_faces": false,
+        "analyzed_tags": true,
+        "categories": [
+          "imgixfood"
+        ],
+        "color_model": "RGB",
+        "color_profile": "sRGB",
+        "colors": {
+          "dominant_colors": {
+            "#65553d": 0.06696165353059769,
+            "#734c37": 0.034395281225442886,
+            "#98674f": 0.022064896300435066,
+            "#9e663d": 0.013628318905830383,
+            "#b35e3a": 0.015162241645157337,
+            "#ee875f": 0.02106194756925106,
+            "#f5e8d1": 0.0492035411298275,
+            "#f87a4d": 0.009557521902024746,
+            "#fa8a54": 0.011563422158360481,
+            "#fd9e72": 0.006548672448843718
+          }
+        },
+        "content_type": "image/jpeg",
+        "custom_fields": {
+          "Chef": "Claire",
+          "Name": "Crepe Cake",
+          "Type": "Cake"
+        },
+        "date_created": 1611728204,
+        "date_modified": 1611777192,
+        "description": null,
+        "dpi_height": null,
+        "dpi_width": null,
+        "face_count": null,
+        "file_size": 673004,
+        "has_frames": false,
+        "media_height": 3024,
+        "media_kind": "IMAGE",
+        "media_width": 4032,
+        "name": null,
+        "origin_path": "/food/crepecake.jpeg",
+        "source_id": "55e4d9390d42e03905934ad4",
+        "tags": {
+          "Cuisine": 0.844914972782135,
+          "Dish": 0.8047364354133606,
+          "Dishware": 0.9350945353507996,
+          "Food": 0.9834872484207153,
+          "Ingredient": 0.8914812803268433,
+          "Plate": 0.8817097544670105,
+          "Recipe": 0.871525764465332,
+          "Serveware": 0.8141039609909058,
+          "Table": 0.904413640499115,
+          "Tableware": 0.9655819535255432
+        },
+        "uploaded_by": "5629342b0d42e01151e822f6",
+        "uploaded_by_api": false,
+        "warning_adult": 1,
+        "warning_medical": 2,
+        "warning_racy": 2,
+        "warning_spoof": 1,
+        "warning_violence": 1
+      },
+      "id": "55e4d9390d42e03905934ad4/food/crepecake.jpeg",
+      "type": "assets"
+    },
+    {
+      "attributes": {
+        "analyzed_content_warnings": true,
+        "analyzed_faces": false,
+        "analyzed_tags": true,
+        "categories": [
+          "imgixfood"
+        ],
+        "color_model": "RGB",
+        "color_profile": null,
+        "colors": {
+          "dominant_colors": {
+            "#30363c": 0.1542772799730301,
+            "#5d2b05": 0.052920352667570114,
+            "#6e797b": 0.03221238777041435,
+            "#7a4517": 0.058879055082798004,
+            "#9f6b39": 0.04129793494939804,
+            "#ac691f": 0.029262537136673927,
+            "#b0977f": 0.024365780875086784,
+            "#c8915a": 0.039469026029109955,
+            "#cb8c41": 0.014513274654746056,
+            "#ffdb98": 0.001533923321403563
+          }
+        },
+        "content_type": "image/jpeg",
+        "custom_fields": {
+          "Chef": "Erika",
+          "Name": "Seafood Gumbo",
+          "Type": "Dinner"
+        },
+        "date_created": 1611728130,
+        "date_modified": 1611777192,
+        "description": null,
+        "dpi_height": 72,
+        "dpi_width": 72,
+        "face_count": null,
+        "file_size": 900718,
+        "has_frames": false,
+        "media_height": 4032,
+        "media_kind": "IMAGE",
+        "media_width": 3024,
+        "name": null,
+        "origin_path": "/food/seafoodgumbo.jpg",
+        "source_id": "55e4d9390d42e03905934ad4",
+        "tags": {
+          "Bowl": 0.7344436645507812,
+          "Cuisine": 0.7917479872703552,
+          "Dish": 0.7661818265914917,
+          "Food": 0.9699450731277466,
+          "Ingredient": 0.8902263641357422,
+          "Meat": 0.7518903613090515,
+          "Produce": 0.7358761429786682,
+          "Recipe": 0.8640502691268921,
+          "Staple food": 0.8303977847099304,
+          "Tableware": 0.9471853971481323
+        },
+        "uploaded_by": "5629342b0d42e01151e822f6",
+        "uploaded_by_api": false,
+        "warning_adult": 1,
+        "warning_medical": 1,
+        "warning_racy": 1,
+        "warning_spoof": 1,
+        "warning_violence": 1
+      },
+      "id": "55e4d9390d42e03905934ad4/food/seafoodgumbo.jpg",
+      "type": "assets"
+    },
+    {
+      "attributes": {
+        "analyzed_content_warnings": true,
+        "analyzed_faces": false,
+        "analyzed_tags": true,
+        "categories": [
+          "imgixfood"
+        ],
+        "color_model": "RGB",
+        "color_profile": null,
+        "colors": {
+          "dominant_colors": {
+            "#5b2c05": 0.033569321036338806,
+            "#78491a": 0.036342181265354156,
+            "#97793e": 0.044306784868240356,
+            "#9a6d3a": 0.029911505058407784,
+            "#b99c5d": 0.17752212285995483,
+            "#bc9d4e": 0.023480825126171112,
+            "#c1925d": 0.02218289114534855,
+            "#c68d40": 0.005604719743132591,
+            "#d2b262": 0.012153392657637596,
+            "#d3b778": 0.12861357629299164
+          }
+        },
+        "content_type": "image/jpeg",
+        "custom_fields": {
+          "Chef": "Tim",
+          "Name": "Stuffed Shells",
+          "Type": "Dinner"
+        },
+        "date_created": 1611727984,
+        "date_modified": 1611777192,
+        "description": null,
+        "dpi_height": null,
+        "dpi_width": null,
+        "face_count": null,
+        "file_size": 1000102,
+        "has_frames": false,
+        "media_height": 4032,
+        "media_kind": "IMAGE",
+        "media_width": 3024,
+        "name": null,
+        "origin_path": "/food/stuffedshells.jpg",
+        "source_id": "55e4d9390d42e03905934ad4",
+        "tags": {
+          "Baked goods": 0.8056492209434509,
+          "Cooking": 0.8101673722267151,
+          "Cuisine": 0.8286454677581787,
+          "Deep frying": 0.7894425988197327,
+          "Dish": 0.7947983145713806,
+          "Dumpling": 0.8681035041809082,
+          "Food": 0.9800408482551575,
+          "Ingredient": 0.8884010910987854,
+          "Recipe": 0.876919686794281,
+          "Tableware": 0.7939422130584717
+        },
+        "uploaded_by": "5629342b0d42e01151e822f6",
+        "uploaded_by_api": false,
+        "warning_adult": 1,
+        "warning_medical": 1,
+        "warning_racy": 2,
+        "warning_spoof": 1,
+        "warning_violence": 1
+      },
+      "id": "55e4d9390d42e03905934ad4/food/stuffedshells.jpg",
+      "type": "assets"
+    },
+    {
+      "attributes": {
+        "analyzed_content_warnings": true,
+        "analyzed_faces": false,
+        "analyzed_tags": true,
+        "categories": [
+          "imgixfood"
+        ],
+        "color_model": "RGB",
+        "color_profile": null,
+        "colors": {
+          "dominant_colors": {
+            "#221d19": 0.0187020655721426,
+            "#371209": 0.0037758112885057926,
+            "#9d2251": 0.006312684156000614,
+            "#a4a4a4": 0.2110324501991272,
+            "#ae1d08": 0.05705014616250992,
+            "#b6044a": 0.003067846642807126,
+            "#cd9163": 0.003657817142084241,
+            "#cfc2a0": 0.06353982537984848,
+            "#d52715": 0.03646017611026764,
+            "#f76c0b": 0.012153392657637596
+          }
+        },
+        "content_type": "image/jpeg",
+        "custom_fields": {
+          "Chef": "Cindy",
+          "Name": "Elmo Cake",
+          "Type": "Cake"
+        },
+        "date_created": 1611727902,
+        "date_modified": 1611777192,
+        "description": null,
+        "dpi_height": 72,
+        "dpi_width": 72,
+        "face_count": null,
+        "file_size": 942027,
+        "has_frames": false,
+        "media_height": 4032,
+        "media_kind": "IMAGE",
+        "media_width": 3024,
+        "name": null,
+        "origin_path": "/food/elmocake.jpg",
+        "source_id": "55e4d9390d42e03905934ad4",
+        "tags": {
+          "Cake decorating": 0.8341326117515564,
+          "Cake decorating supply": 0.8154160380363464,
+          "Cuisine": 0.7728428244590759,
+          "Dishware": 0.8371973037719727,
+          "Flower": 0.8778883814811707,
+          "Food": 0.9660192131996155,
+          "Ingredient": 0.7884802222251892,
+          "Party supply": 0.7583388090133667,
+          "Serveware": 0.8098621964454651,
+          "Sugar cake": 0.7642682790756226
+        },
+        "uploaded_by": "5629342b0d42e01151e822f6",
+        "uploaded_by_api": false,
+        "warning_adult": 1,
+        "warning_medical": 2,
+        "warning_racy": 2,
+        "warning_spoof": 4,
+        "warning_violence": 2
+      },
+      "id": "55e4d9390d42e03905934ad4/food/elmocake.jpg",
+      "type": "assets"
+    },
+    {
+      "attributes": {
+        "analyzed_content_warnings": true,
+        "analyzed_faces": false,
+        "analyzed_tags": true,
+        "categories": [
+          "imgixfood"
+        ],
+        "color_model": "RGB",
+        "color_profile": "sRGB",
+        "colors": {
+          "dominant_colors": {
+            "#3b302d": 0.05952802300453186,
+            "#6a1a1e": 0.012153392657637596,
+            "#7daaa7": 0.00949852541089058,
+            "#804924": 0.02064896747469902,
+            "#873536": 0.011386430822312832,
+            "#8b3e19": 0.017994100227952003,
+            "#992432": 0.004955752287060022,
+            "#a16840": 0.01787610538303852,
+            "#b15d34": 0.010973451659083366,
+            "#f4dfc3": 0.0723893791437149
+          }
+        },
+        "content_type": "image/jpeg",
+        "custom_fields": {
+          "Chef": "Cindy",
+          "Name": "Unicorn Roll",
+          "Type": "Cake"
+        },
+        "date_created": 1611727830,
+        "date_modified": 1611777192,
+        "description": null,
+        "dpi_height": null,
+        "dpi_width": null,
+        "face_count": null,
+        "file_size": 499818,
+        "has_frames": false,
+        "media_height": 4032,
+        "media_kind": "IMAGE",
+        "media_width": 3024,
+        "name": null,
+        "origin_path": "/food/unicornroll.jpeg",
+        "source_id": "55e4d9390d42e03905934ad4",
+        "tags": {
+          "Baked goods": 0.8074026703834534,
+          "Cake": 0.8741962313652039,
+          "Cuisine": 0.8299974799156189,
+          "Dishware": 0.8662117719650269,
+          "Food": 0.9765223860740662,
+          "Ingredient": 0.9007111191749573,
+          "Plate": 0.8588865399360657,
+          "Recipe": 0.8747351169586182,
+          "Table": 0.8496276140213013,
+          "Tableware": 0.9490607380867004
+        },
+        "uploaded_by": "5629342b0d42e01151e822f6",
+        "uploaded_by_api": false,
+        "warning_adult": 2,
+        "warning_medical": 2,
+        "warning_racy": 2,
+        "warning_spoof": 4,
+        "warning_violence": 2
+      },
+      "id": "55e4d9390d42e03905934ad4/food/unicornroll.jpeg",
+      "type": "assets"
+    },
+    {
+      "attributes": {
+        "analyzed_content_warnings": true,
+        "analyzed_faces": false,
+        "analyzed_tags": true,
+        "categories": [
+          "imgixfood"
+        ],
+        "color_model": "RGB",
+        "color_profile": null,
+        "colors": {
+          "dominant_colors": {
+            "#293710": 0.040235988795757294,
+            "#3d3313": 0.033097345381975174,
+            "#4a562c": 0.021592920646071434,
+            "#5d5234": 0.04554572328925133,
+            "#847b74": 0.07758112251758575,
+            "#867860": 0.07474926114082336,
+            "#a19790": 0.13899704813957214,
+            "#a79780": 0.07404129952192307,
+            "#b69182": 0.03852507472038269,
+            "#cfbfa5": 0.041474927216768265
+          }
+        },
+        "content_type": "image/jpeg",
+        "custom_fields": {
+          "Chef": "Nick3",
+          "Name": "Carnitas Tacos",
+          "Type": "Dinner"
+        },
+        "date_created": 1611727512,
+        "date_modified": 1611777191,
+        "description": null,
+        "dpi_height": 72,
+        "dpi_width": 72,
+        "face_count": null,
+        "file_size": 1511683,
+        "has_frames": false,
+        "media_height": 2712,
+        "media_kind": "IMAGE",
+        "media_width": 3614,
+        "name": null,
+        "origin_path": "/food/carnitastacos.jpg",
+        "source_id": "55e4d9390d42e03905934ad4",
+        "tags": {
+          "Cuisine": 0.8541653752326965,
+          "Dish": 0.8430246710777283,
+          "Fines herbes": 0.8730001449584961,
+          "Food": 0.9858123064041138,
+          "Ingredient": 0.9073420763015747,
+          "Leaf vegetable": 0.8489746451377869,
+          "Produce": 0.7957634329795837,
+          "Recipe": 0.8789965510368347,
+          "Staple food": 0.865211009979248,
+          "Tableware": 0.9362603425979614
+        },
+        "uploaded_by": "5629342b0d42e01151e822f6",
+        "uploaded_by_api": false,
+        "warning_adult": 1,
+        "warning_medical": 1,
+        "warning_racy": 1,
+        "warning_spoof": 1,
+        "warning_violence": 1
+      },
+      "id": "55e4d9390d42e03905934ad4/food/carnitastacos.jpg",
+      "type": "assets"
+    },
+    {
+      "attributes": {
+        "analyzed_content_warnings": true,
+        "analyzed_faces": false,
+        "analyzed_tags": true,
+        "categories": [
+          "imgixfood"
+        ],
+        "color_model": "RGB",
+        "color_profile": null,
+        "colors": {
+          "dominant_colors": {
+            "#221c06": 0.020353982225060463,
+            "#393116": 0.037050146609544754,
+            "#473707": 0.02383480779826641,
+            "#625134": 0.028436578810214996,
+            "#655119": 0.055280234664678574,
+            "#8a7338": 0.04560472071170807,
+            "#917723": 0.022477876394987106,
+            "#b09755": 0.04566371813416481,
+            "#bb9d44": 0.07598820328712463,
+            "#d5b658": 0.06289085745811462
+          }
+        },
+        "content_type": "image/jpeg",
+        "custom_fields": {
+          "Chef": "Karthik",
+          "Name": "Pork Dumpling Stir Fry",
+          "Type": "Dinner"
+        },
+        "date_created": 1611727404,
+        "date_modified": 1611777192,
+        "description": null,
+        "dpi_height": 72,
+        "dpi_width": 72,
+        "face_count": null,
+        "file_size": 1113849,
+        "has_frames": false,
+        "media_height": 3024,
+        "media_kind": "IMAGE",
+        "media_width": 4032,
+        "name": null,
+        "origin_path": "/food/porkdumpling.jpg",
+        "source_id": "55e4d9390d42e03905934ad4",
+        "tags": {
+          "Cuisine": 0.8569680452346802,
+          "Dish": 0.8444550633430481,
+          "Fines herbes": 0.7560043334960938,
+          "Food": 0.9817884564399719,
+          "Ingredient": 0.909164547920227,
+          "Leaf vegetable": 0.8105504512786865,
+          "Meat": 0.7372058629989624,
+          "Produce": 0.7893737554550171,
+          "Recipe": 0.8813652992248535,
+          "Staple food": 0.8711492419242859
+        },
+        "uploaded_by": "5629342b0d42e01151e822f6",
+        "uploaded_by_api": false,
+        "warning_adult": 2,
+        "warning_medical": 1,
+        "warning_racy": 1,
+        "warning_spoof": 1,
+        "warning_violence": 1
+      },
+      "id": "55e4d9390d42e03905934ad4/food/porkdumpling.jpg",
+      "type": "assets"
+    },
+    {
+      "attributes": {
+        "analyzed_content_warnings": true,
+        "analyzed_faces": false,
+        "analyzed_tags": true,
+        "categories": [
+          "imgixfood"
+        ],
+        "color_model": "RGB",
+        "color_profile": null,
+        "colors": {
+          "dominant_colors": {
+            "#3f3927": 0.01504424773156643,
+            "#533209": 0.0006489675724878907,
+            "#5a523d": 0.044247787445783615,
+            "#af9b80": 0.034749262034893036,
+            "#b19560": 0.006312684156000614,
+            "#b46461": 0.004837757907807827,
+            "#debc87": 0.008613569661974907,
+            "#dfc4a8": 0.056106194853782654,
+            "#e8bca1": 0.02619468979537487,
+            "#eab78b": 0.005958701949566603
+          }
+        },
+        "content_type": "image/jpeg",
+        "custom_fields": {
+          "Chef": "Cindy",
+          "Name": "Smash Cake",
+          "Type": "Cake"
+        },
+        "date_created": 1611727301,
+        "date_modified": 1611777191,
+        "description": null,
+        "dpi_height": 72,
+        "dpi_width": 72,
+        "face_count": null,
+        "file_size": 1080115,
+        "has_frames": false,
+        "media_height": 3024,
+        "media_kind": "IMAGE",
+        "media_width": 4032,
+        "name": null,
+        "origin_path": "/food/birthdaycake.jpg",
+        "source_id": "55e4d9390d42e03905934ad4",
+        "tags": {
+          "Art": 0.8297619819641113,
+          "Chair": 0.8821260929107666,
+          "Furniture": 0.9475001096725464,
+          "Paint": 0.8355551958084106,
+          "Rectangle": 0.858107328414917,
+          "Shelf": 0.6638944745063782,
+          "Shelving": 0.8717421293258667,
+          "Souvenir": 0.6719251871109009,
+          "Table": 0.927278995513916,
+          "Visual arts": 0.6786662936210632
+        },
+        "uploaded_by": "5629342b0d42e01151e822f6",
+        "uploaded_by_api": false,
+        "warning_adult": 1,
+        "warning_medical": 1,
+        "warning_racy": 1,
+        "warning_spoof": 1,
+        "warning_violence": 1
+      },
+      "id": "55e4d9390d42e03905934ad4/food/birthdaycake.jpg",
+      "type": "assets"
+    },
+    {
+      "attributes": {
+        "analyzed_content_warnings": true,
+        "analyzed_faces": false,
+        "analyzed_tags": true,
+        "categories": [
+          "imgixfood"
+        ],
+        "color_model": "RGB",
+        "color_profile": null,
+        "colors": {
+          "dominant_colors": {
+            "#130d12": 0.3258996903896332,
+            "#350f01": 0.008259586989879608,
+            "#8a4d06": 0.011563422158360481,
+            "#ae6a16": 0.08784660696983337,
+            "#b5620d": 0.034749262034893036,
+            "#c56d08": 0.008259586989879608,
+            "#cc862d": 0.046253688633441925,
+            "#da8d1f": 0.0759292021393776,
+            "#dc8215": 0.03091445378959179,
+            "#f0a430": 0.005958701949566603
+          }
+        },
+        "content_type": "image/jpeg",
+        "custom_fields": {
+          "Chef": "Nick3",
+          "Name": "Croquettes",
+          "Type": "Dinner"
+        },
+        "date_created": 1611727159,
+        "date_modified": 1611777192,
+        "description": null,
+        "dpi_height": 72,
+        "dpi_width": 72,
+        "face_count": null,
+        "file_size": 1022227,
+        "has_frames": false,
+        "media_height": 3024,
+        "media_kind": "IMAGE",
+        "media_width": 4032,
+        "name": null,
+        "origin_path": "/food/croquettes.jpg",
+        "source_id": "55e4d9390d42e03905934ad4",
+        "tags": {
+          "Cuisine": 0.8549559712409973,
+          "Deep frying": 0.8123217821121216,
+          "Dish": 0.8500567674636841,
+          "Fast food": 0.7700496912002563,
+          "Food": 0.9845393896102905,
+          "Fried food": 0.761857807636261,
+          "Hushpuppy": 0.8166382908821106,
+          "Ingredient": 0.8932194113731384,
+          "Produce": 0.7844604253768921,
+          "Recipe": 0.8722259402275085
+        },
+        "uploaded_by": "5629342b0d42e01151e822f6",
+        "uploaded_by_api": false,
+        "warning_adult": 1,
+        "warning_medical": 1,
+        "warning_racy": 1,
+        "warning_spoof": 1,
+        "warning_violence": 1
+      },
+      "id": "55e4d9390d42e03905934ad4/food/croquettes.jpg",
+      "type": "assets"
+    },
+    {
+      "attributes": {
+        "analyzed_content_warnings": true,
+        "analyzed_faces": false,
+        "analyzed_tags": true,
+        "categories": [
+          "imgixfood"
+        ],
+        "color_model": "RGB",
+        "color_profile": "sRGB IEC61966-2.1",
+        "colors": {
+          "dominant_colors": {
+            "#774c1c": 0.010873015969991684,
+            "#897558": 0.02349206432700157,
+            "#967b46": 0.015396825037896633,
+            "#9b7e28": 0.018333332613110542,
+            "#ad9f7d": 0.021190475672483444,
+            "#b39c40": 0.1007142886519432,
+            "#b4a05f": 0.08865079283714294,
+            "#c4b67b": 0.023968253284692764,
+            "#c4bb95": 0.029682539403438568,
+            "#cab657": 0.0023015872575342655
+          }
+        },
+        "content_type": "image/jpeg",
+        "custom_fields": {
+          "Chef": "Tom",
+          "Name": "Dutch Pancake",
+          "Type": "Breakfast"
+        },
+        "date_created": 1611727011,
+        "date_modified": 1611777192,
+        "description": null,
+        "dpi_height": 72,
+        "dpi_width": 72,
+        "face_count": null,
+        "file_size": 3018844,
+        "has_frames": false,
+        "media_height": 2160,
+        "media_kind": "IMAGE",
+        "media_width": 3840,
+        "name": null,
+        "origin_path": "/food/dutchpancake.jpg",
+        "source_id": "55e4d9390d42e03905934ad4",
+        "tags": {
+          "Baked goods": 0.7815617322921753,
+          "Cooking": 0.7792673110961914,
+          "Flour": 0.8532214760780334,
+          "Food": 0.9724205732345581,
+          "Ingredient": 0.8588224053382874,
+          "Produce": 0.7738118171691895,
+          "Recipe": 0.8727898001670837,
+          "Serveware": 0.7962063550949097,
+          "Staple food": 0.8667807579040527,
+          "Tableware": 0.9109411835670471
+        },
+        "uploaded_by": "5629342b0d42e01151e822f6",
+        "uploaded_by_api": false,
+        "warning_adult": 1,
+        "warning_medical": 2,
+        "warning_racy": 1,
+        "warning_spoof": 1,
+        "warning_violence": 2
+      },
+      "id": "55e4d9390d42e03905934ad4/food/dutchpancake.jpg",
+      "type": "assets"
+    },
+    {
+      "attributes": {
+        "analyzed_content_warnings": true,
+        "analyzed_faces": false,
+        "analyzed_tags": true,
+        "categories": [
+          "imgixfood"
+        ],
+        "color_model": "RGB",
+        "color_profile": null,
+        "colors": {
+          "dominant_colors": {
+            "#351306": 0.03758111968636513,
+            "#502b1a": 0.14141592383384705,
+            "#714a39": 0.15604719519615173,
+            "#99695b": 0.0796460211277008,
+            "#9a6c43": 0.016578171402215958,
+            "#b26766": 0.02613569237291813,
+            "#be9b64": 0.02029498480260372,
+            "#bf877a": 0.02377581037580967,
+            "#ca7e7c": 0.014100294560194016,
+            "#d0b695": 0.16772861778736115
+          }
+        },
+        "content_type": "image/jpeg",
+        "custom_fields": {
+          "Chef": "Tim",
+          "Name": "Teriyaki Ribeye",
+          "Type": "Dinner"
+        },
+        "date_created": 1611726875,
+        "date_modified": 1611777192,
+        "description": null,
+        "dpi_height": null,
+        "dpi_width": null,
+        "face_count": null,
+        "file_size": 1211488,
+        "has_frames": false,
+        "media_height": 4032,
+        "media_kind": "IMAGE",
+        "media_width": 3024,
+        "name": null,
+        "origin_path": "/food/teriyakiribeye.jpg",
+        "source_id": "55e4d9390d42e03905934ad4",
+        "tags": {
+          "Animal product": 0.8228104710578918,
+          "Beef": 0.8648539185523987,
+          "Cuisine": 0.8616385459899902,
+          "Dish": 0.8500567674636841,
+          "Food": 0.9845384955406189,
+          "Ingredient": 0.9123704433441162,
+          "Pork": 0.8328153491020203,
+          "Recipe": 0.8797533512115479,
+          "Red meat": 0.8299420475959778,
+          "Steak": 0.84639573097229
+        },
+        "uploaded_by": "5629342b0d42e01151e822f6",
+        "uploaded_by_api": false,
+        "warning_adult": 2,
+        "warning_medical": 3,
+        "warning_racy": 2,
+        "warning_spoof": 1,
+        "warning_violence": 1
+      },
+      "id": "55e4d9390d42e03905934ad4/food/teriyakiribeye.jpg",
+      "type": "assets"
+    },
+    {
+      "attributes": {
+        "analyzed_content_warnings": true,
+        "analyzed_faces": false,
+        "analyzed_tags": true,
+        "categories": [
+          "imgixfood"
+        ],
+        "color_model": "RGB",
+        "color_profile": null,
+        "colors": {
+          "dominant_colors": {
+            "#190d06": 0.14460177719593048,
+            "#88755f": 0.049321532249450684,
+            "#a59996": 0.12879055738449097,
+            "#ac9c84": 0.09929203242063522,
+            "#bc9386": 0.020884955301880836,
+            "#bc9396": 0.024778760969638824,
+            "#c2ce85": 0.012743363156914711,
+            "#c7bcb7": 0.10247787833213806,
+            "#ccbca2": 0.11769911646842957,
+            "#e0b4ba": 0.0301474928855896
+          }
+        },
+        "content_type": "image/jpeg",
+        "custom_fields": {
+          "Chef": "Cindy",
+          "Name": "Macarons",
+          "Type": "Cookie"
+        },
+        "date_created": 1611726634,
+        "date_modified": 1611777192,
+        "description": null,
+        "dpi_height": 72,
+        "dpi_width": 72,
+        "face_count": null,
+        "file_size": 1146134,
+        "has_frames": false,
+        "media_height": 3024,
+        "media_kind": "IMAGE",
+        "media_width": 4032,
+        "name": null,
+        "origin_path": "/food/macaron.jpg",
+        "source_id": "55e4d9390d42e03905934ad4",
+        "tags": {
+          "Baked goods": 0.8689092993736267,
+          "Convenience food": 0.8501975536346436,
+          "Cuisine": 0.8642765879631042,
+          "Dairy": 0.7572266459465027,
+          "Food": 0.9849147796630859,
+          "Ingredient": 0.8675456047058105,
+          "Macaroon": 0.8917025923728943,
+          "Retail": 0.7884736657142639,
+          "Shelving": 0.7590044140815735,
+          "Sweetness": 0.7634177803993225
+        },
+        "uploaded_by": "5629342b0d42e01151e822f6",
+        "uploaded_by_api": false,
+        "warning_adult": 1,
+        "warning_medical": 1,
+        "warning_racy": 1,
+        "warning_spoof": 1,
+        "warning_violence": 1
+      },
+      "id": "55e4d9390d42e03905934ad4/food/macaron.jpg",
+      "type": "assets"
+    },
+    {
+      "attributes": {
+        "analyzed_content_warnings": true,
+        "analyzed_faces": false,
+        "analyzed_tags": true,
+        "categories": [
+          "imgixfood"
+        ],
+        "color_model": "RGB",
+        "color_profile": null,
+        "colors": {
+          "dominant_colors": {
+            "#151410": 0.12495575100183487,
+            "#460200": 0.0011209439253434539,
+            "#4a540c": 0.011740412563085556,
+            "#5c5119": 0.016047198325395584,
+            "#747c17": 0.0018879056442528963,
+            "#8f3615": 0.023480825126171112,
+            "#a92e06": 0.01150442473590374,
+            "#b29b7c": 0.0824778750538826,
+            "#d4bb9b": 0.13174040615558624,
+            "#e7e1d7": 0.044188790023326874
+          }
+        },
+        "content_type": "image/jpeg",
+        "custom_fields": {
+          "Chef": "Karthik",
+          "Name": "Falafel Wrap",
+          "Type": "Dinner"
+        },
+        "date_created": 1611726490,
+        "date_modified": 1611777192,
+        "description": null,
+        "dpi_height": 72,
+        "dpi_width": 72,
+        "face_count": null,
+        "file_size": 1489144,
+        "has_frames": false,
+        "media_height": 3024,
+        "media_kind": "IMAGE",
+        "media_width": 4032,
+        "name": null,
+        "origin_path": "/food/falafel.jpg",
+        "source_id": "55e4d9390d42e03905934ad4",
+        "tags": {
+          "Cooktop": 0.8282755017280579,
+          "Dishware": 0.8653342127799988,
+          "Fines herbes": 0.8560493588447571,
+          "Food": 0.9850650429725647,
+          "Gas stove": 0.8558967113494873,
+          "Ingredient": 0.8784905672073364,
+          "Leaf vegetable": 0.8183813095092773,
+          "Recipe": 0.8733546733856201,
+          "Seafood": 0.8673141002655029,
+          "Tableware": 0.9341073036193848
+        },
+        "uploaded_by": "5629342b0d42e01151e822f6",
+        "uploaded_by_api": false,
+        "warning_adult": 1,
+        "warning_medical": 2,
+        "warning_racy": 1,
+        "warning_spoof": 1,
+        "warning_violence": 2
+      },
+      "id": "55e4d9390d42e03905934ad4/food/falafel.jpg",
+      "type": "assets"
+    },
+    {
+      "attributes": {
+        "analyzed_content_warnings": true,
+        "analyzed_faces": false,
+        "analyzed_tags": true,
+        "categories": [
+          "imgixfood"
+        ],
+        "color_model": "RGB",
+        "color_profile": null,
+        "colors": {
+          "dominant_colors": {
+            "#311503": 0.011563422158360481,
+            "#592f05": 0.019646016880869865,
+            "#6b5117": 0.03598820045590401,
+            "#6d2103": 0.013982300646603107,
+            "#724713": 0.037522122263908386,
+            "#775902": 0.014277285896241665,
+            "#7e5403": 0.026902655139565468,
+            "#92710d": 0.06949852406978607,
+            "#946709": 0.048259586095809937,
+            "#b7973d": 0.03209439665079117
+          }
+        },
+        "content_type": "image/jpeg",
+        "custom_fields": {
+          "Chef": "Karthik",
+          "Name": "Sous Vide Burger",
+          "Type": "Dinner"
+        },
+        "date_created": 1611726416,
+        "date_modified": 1611777192,
+        "description": null,
+        "dpi_height": 72,
+        "dpi_width": 72,
+        "face_count": null,
+        "file_size": 981206,
+        "has_frames": false,
+        "media_height": 3024,
+        "media_kind": "IMAGE",
+        "media_width": 4032,
+        "name": null,
+        "origin_path": "/food/sousvideburger.jpg",
+        "source_id": "55e4d9390d42e03905934ad4",
+        "tags": {
+          "Baked goods": 0.8680897355079651,
+          "Bread": 0.8243715763092041,
+          "Bun": 0.9034541845321655,
+          "Cuisine": 0.854637861251831,
+          "Dish": 0.843011736869812,
+          "Fast food": 0.8931102156639099,
+          "Food": 0.9821656942367554,
+          "Ingredient": 0.9066122770309448,
+          "Sandwich": 0.8460171222686768,
+          "Staple food": 0.8775036334991455
+        },
+        "uploaded_by": "5629342b0d42e01151e822f6",
+        "uploaded_by_api": false,
+        "warning_adult": 1,
+        "warning_medical": 1,
+        "warning_racy": 1,
+        "warning_spoof": 1,
+        "warning_violence": 1
+      },
+      "id": "55e4d9390d42e03905934ad4/food/sousvideburger.jpg",
+      "type": "assets"
+    },
+    {
+      "attributes": {
+        "analyzed_content_warnings": true,
+        "analyzed_faces": false,
+        "analyzed_tags": true,
+        "categories": [
+          "imgixfood"
+        ],
+        "color_model": "RGB",
+        "color_profile": "Display P3",
+        "colors": {
+          "dominant_colors": {
+            "#190b05": 0.07150442153215408,
+            "#864b1b": 0.028849557042121887,
+            "#8e4517": 0.017994100227952003,
+            "#a85c2d": 0.016578171402215958,
+            "#aa6935": 0.08595870435237885,
+            "#b06226": 0.022831859067082405,
+            "#b26c2b": 0.05946902558207512,
+            "#c68a53": 0.06637167930603027,
+            "#cdbda4": 0.18206489086151123,
+            "#ce8743": 0.06407079845666885
+          }
+        },
+        "content_type": "image/jpeg",
+        "custom_fields": {
+          "Chef": "Tom",
+          "Name": "Beer Bread",
+          "Type": "Bread"
+        },
+        "date_created": 1611726295,
+        "date_modified": 1611777191,
+        "description": null,
+        "dpi_height": 72,
+        "dpi_width": 72,
+        "face_count": null,
+        "file_size": 3712817,
+        "has_frames": false,
+        "media_height": 4032,
+        "media_kind": "IMAGE",
+        "media_width": 3024,
+        "name": null,
+        "origin_path": "/food/beerbread.jpg",
+        "source_id": "55e4d9390d42e03905934ad4",
+        "tags": {
+          "Baked goods": 0.8208156228065491,
+          "Food": 0.9781577587127686,
+          "Graham bread": 0.9138315916061401,
+          "Ingredient": 0.8539491295814514,
+          "Kitchen appliance": 0.873898446559906,
+          "Loaf": 0.8131293654441833,
+          "Recipe": 0.8574562668800354,
+          "Sliced bread": 0.8003677725791931,
+          "Staple food": 0.8743223547935486,
+          "Tableware": 0.8254156708717346
+        },
+        "uploaded_by": "5629342b0d42e01151e822f6",
+        "uploaded_by_api": false,
+        "warning_adult": 1,
+        "warning_medical": 1,
+        "warning_racy": 1,
+        "warning_spoof": 1,
+        "warning_violence": 1
+      },
+      "id": "55e4d9390d42e03905934ad4/food/beerbread.jpg",
+      "type": "assets"
+    }
+  ],
+  "included": [],
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "meta": {
+    "authentication": {
+      "authorized": true,
+      "clientId": null,
+      "mode": "PUBLIC_APIKEY",
+      "modeTitle": "Public API Key",
+      "tag": "tom@imgix.com",
+      "user": null
+    },
+    "cursor": {
+      "current": "0",
+      "hasMore": true,
+      "next": "20",
+      "totalRecords": "47"
+    },
+    "server": {
+      "commit": "70c63ec9",
+      "status": {
+        "healthy": true,
+        "read_only": false,
+        "tombstone": false
+      },
+      "version": "3.140.2"
+    }
+  }
+}
