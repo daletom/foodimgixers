@@ -12,6 +12,140 @@
         "color_profile": null,
         "colors": {
           "dominant_colors": {
+            "#774b1f": 0.03020649030804634,
+            "#8f753f": 0.03008849546313286,
+            "#9f6f3e": 0.054100293666124344,
+            "#b49876": 0.04572271555662155,
+            "#b99a63": 0.041533924639225006,
+            "#c29260": 0.06702064722776413,
+            "#d14429": 0.004011799581348896,
+            "#d9b882": 0.02070796489715576,
+            "#e2b27f": 0.020766962319612503,
+            "#f96d56": 0.0009439528221264482
+          }
+        },
+        "content_type": "image/jpeg",
+        "custom_fields": {
+          "Chef": "Cindy",
+          "Name": "Japchae",
+          "Type": "Dinner"
+        },
+        "date_created": 1612209233,
+        "date_modified": 1612209332,
+        "description": null,
+        "dpi_height": 72,
+        "dpi_width": 72,
+        "face_count": null,
+        "file_size": 1014343,
+        "has_frames": false,
+        "media_height": 4032,
+        "media_kind": "IMAGE",
+        "media_width": 3024,
+        "name": null,
+        "origin_path": "/food/japchae.jpg",
+        "source_id": "55e4d9390d42e03905934ad4",
+        "tags": {
+          "Cuisine": 0.8110542297363281,
+          "Food": 0.9854970574378967,
+          "Ingredient": 0.8912305235862732,
+          "Leaf vegetable": 0.8464212417602539,
+          "Noodle": 0.8418170213699341,
+          "Recipe": 0.8778756856918335,
+          "Rice noodles": 0.8389700651168823,
+          "Sesame": 0.8200401663780212,
+          "Staple food": 0.8842605352401733,
+          "Tableware": 0.8994782567024231
+        },
+        "uploaded_by": "5629342b0d42e01151e822f6",
+        "uploaded_by_api": false,
+        "warning_adult": 1,
+        "warning_medical": 1,
+        "warning_racy": 1,
+        "warning_spoof": 1,
+        "warning_violence": 1
+      },
+      "id": "55e4d9390d42e03905934ad4/food/japchae.jpg",
+      "type": "assets"
+    },
+    {
+      "attributes": {
+        "analyzed_content_warnings": true,
+        "analyzed_faces": false,
+        "analyzed_tags": true,
+        "categories": [
+          "imgixfood"
+        ],
+        "color_model": "RGB",
+        "color_profile": "sRGB IEC61966-2.1",
+        "colors": {
+          "dominant_colors": {
+            "#4d3725": 0.05999999865889549,
+            "#4f3220": 0.12984126806259155,
+            "#624b34": 0.095238097012043,
+            "#684931": 0.09420634806156158,
+            "#8c7761": 0.09626983851194382,
+            "#926e55": 0.03126984089612961,
+            "#947444": 0.028888888657093048,
+            "#a4927c": 0.09960317611694336,
+            "#a7b9df": 0.022539682686328888,
+            "#ae8e58": 0.03603174537420273
+          }
+        },
+        "content_type": "image/jpeg",
+        "custom_fields": {
+          "Chef": "Tom",
+          "Name": "Sundried Tomatoe Olive Loaf",
+          "Type": "Bread"
+        },
+        "date_created": 1612209233,
+        "date_modified": 1612209372,
+        "description": null,
+        "dpi_height": 72,
+        "dpi_width": 72,
+        "face_count": null,
+        "file_size": 2069066,
+        "has_frames": false,
+        "media_height": 2160,
+        "media_kind": "IMAGE",
+        "media_width": 3840,
+        "name": null,
+        "origin_path": "/food/sundriedoliveloaf.jpg",
+        "source_id": "55e4d9390d42e03905934ad4",
+        "tags": {
+          "Baked goods": 0.8528220653533936,
+          "Cake": 0.8868846297264099,
+          "Cuisine": 0.8520238995552063,
+          "Food": 0.9862663149833679,
+          "Graham bread": 0.8429747223854065,
+          "Ingredient": 0.8991006016731262,
+          "Loaf": 0.8475300073623657,
+          "Recipe": 0.8635227084159851,
+          "Sourdough": 0.8669639229774475,
+          "Tableware": 0.9569023251533508
+        },
+        "uploaded_by": "5629342b0d42e01151e822f6",
+        "uploaded_by_api": false,
+        "warning_adult": 1,
+        "warning_medical": 2,
+        "warning_racy": 1,
+        "warning_spoof": 1,
+        "warning_violence": 1
+      },
+      "id": "55e4d9390d42e03905934ad4/food/sundriedoliveloaf.jpg",
+      "type": "assets"
+    },
+    {
+      "attributes": {
+        "analyzed_content_warnings": true,
+        "analyzed_faces": false,
+        "analyzed_tags": true,
+        "categories": [
+          "imgixfood"
+        ],
+        "color_model": "RGB",
+        "color_profile": null,
+        "colors": {
+          "dominant_colors": {
             "#313f04": 0.008613569661974907,
             "#4b5a16": 0.01392330415546894,
             "#605210": 0.0138643067330122,
