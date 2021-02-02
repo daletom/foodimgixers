@@ -76,6 +76,73 @@
           "imgixfood"
         ],
         "color_model": "RGB",
+        "color_profile": "Display P3",
+        "colors": {
+          "dominant_colors": {
+            "#48292e": 0.024011800065636635,
+            "#505c20": 0.019999999552965164,
+            "#61561e": 0.010737462900578976,
+            "#63872c": 0.00023598820553161204,
+            "#6f7b3c": 0.020825957879424095,
+            "#82775f": 0.14725664258003235,
+            "#85753c": 0.01032448373734951,
+            "#c8935a": 0.012625368312001228,
+            "#d6974e": 0.012566371820867062,
+            "#ebac63": 0.00790560431778431
+          }
+        },
+        "content_type": "image/jpeg",
+        "custom_fields": {
+          "Chef": "Claus",
+          "Name": "Peanut Stir Fry",
+          "Type": "Dinner"
+        },
+        "date_created": 1612209233,
+        "date_modified": 1612209293,
+        "description": null,
+        "dpi_height": 72,
+        "dpi_width": 72,
+        "face_count": null,
+        "file_size": 1821844,
+        "has_frames": false,
+        "media_height": 3024,
+        "media_kind": "IMAGE",
+        "media_width": 4032,
+        "name": null,
+        "origin_path": "/food/peanutstirfry.jpg",
+        "source_id": "55e4d9390d42e03905934ad4",
+        "tags": {
+          "Cuisine": 0.8321406245231628,
+          "Dishware": 0.9102839827537537,
+          "Fines herbes": 0.8520044088363647,
+          "Food": 0.980767548084259,
+          "Ingredient": 0.8931939005851746,
+          "Leaf vegetable": 0.8437564373016357,
+          "Plate": 0.8140684962272644,
+          "Recipe": 0.8743293881416321,
+          "Staple food": 0.8159119486808777,
+          "Tableware": 0.9361379146575928
+        },
+        "uploaded_by": "5629342b0d42e01151e822f6",
+        "uploaded_by_api": false,
+        "warning_adult": 1,
+        "warning_medical": 1,
+        "warning_racy": 1,
+        "warning_spoof": 1,
+        "warning_violence": 1
+      },
+      "id": "55e4d9390d42e03905934ad4/food/peanutstirfry.jpg",
+      "type": "assets"
+    },
+    {
+      "attributes": {
+        "analyzed_content_warnings": true,
+        "analyzed_faces": false,
+        "analyzed_tags": true,
+        "categories": [
+          "imgixfood"
+        ],
+        "color_model": "RGB",
         "color_profile": "sRGB IEC61966-2.1",
         "colors": {
           "dominant_colors": {
